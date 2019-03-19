@@ -111,3 +111,78 @@
 </details>
 
 Some different text
+
+
+## 1. Inside the Earth <a name="1"></a>
+
+* *What is the approximate increase of temperature with depth downwards from the surface?*
+* *Describe the differences and similarities between p- and s-waves. How do we know that s-waves are able to pass through the inner core?*
+* *What is the Preliminary Reference Earth Model?*
+* *Why is seismic attenuation another measure for evidence of Earth composition?*
+
+
+<details><summary>Paper which suggested that the inner core is solid:</summary>
+     <span style="color:#8b0000">**Lehmann (1936)**</span>
+     <p>
+</details>
+
+<details><summary>Paper which suggested that seismic velocity increases with depth:</summary>
+     <span style="color:#8b0000">**Birch 1952**</span>
+     <p>
+</details>
+
+<details><summary>Paper which used anisotropy measurements of inner core to account for variations in normal modes:</summary>
+     <span style="color:#8b0000">**Deuss (2000)**</span>
+     <p>
+</details>
+
+<details><summary>Paper which found evidence of `post-perovskite' in the D'' layer:</summary>
+     <span style="color:#8b0000">**Murakami (2004)**</span>
+     <p>
+</details>
+           
+<details><summary>Paper which suggested inner core was distinct from mantle:</summary>
+     <span style="color:#8b0000">**Oldham (1906)**</span>
+     <p>
+</details>
+
+
+
+
+## 2. Geological time <a name="2"></a>
+
+* *What is the closure temperature of a mineral? Provide two examples.*
+* *Outline four of the primary geological laws used for deducing rock facies.*
+
+
+<details><summary>Hutton's investigative interest:</summary>
+     <span style="color:#8b0000">**Siccar Point 1788: horizontal Devonian sandstones overlaying vertical Silurian slates.**</span>
+     <p>
+</details>
+<details><summary>Where were rocks at Ketton deposited?</summary>
+     <span style="color:#8b0000">**When Britain was approximately 34 degrees North.**</span>
+     <p>
+</details>
+
+
+
+
+## 3. Waterworld<a name="3"></a>
+
+* *What did Milankovitch suggest about glacial cycles? What has other evidence provided?*
+* *Provide two examples of events which significantly affected the climate of the entire planet.*
+* *How do foraminifera provide evidence of oxygen isotope concentration in the sea?*
+
+<details><summary>Paper which provided evidence for Milankovitch's ideas of glavial cycles:</summary>
+     <span style="color:#8b0000">**Hays, Imbrie, Shackleton (1976)**</span>
+     <p>
+</details>
+<details><summary>Paper which suggested that glacial cycles are 100ka:</summary>
+     <span style="color:#8b0000">**Abe-Ouchi (2013)**</span>
+     <p>
+</details>
+<details><summary>Paper which suggested that glacial cycles have varied over the history of the Earth:</summary>
+     <span style="color:#8b0000">**Berger (1993)**</span>
+     <p>
+</details>
+
