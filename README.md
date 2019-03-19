@@ -130,15 +130,15 @@ Some different text
 </details>
 
 <details><summary>Paper which used anisotropy measurements of inner core to account for variations in normal modes:</summary>
-     <span style="color:#8b0000">**Deuss (2000)**</span
+     <span style="color:#8b0000">**Deuss (2000)**</span>
 </details>
 
 <details><summary>Paper which found evidence of `post-perovskite' in the D'' layer:</summary>
-     <span style="color:#8b0000">**Murakami (2004)**</span
+     <span style="color:#8b0000">**Murakami (2004)**</span>
 </details>
            
 <details><summary>Paper which suggested inner core was distinct from mantle:</summary>
-     <span style="color:#8b0000">**Oldham (1906)**</
+     <span style="color:#8b0000">**Oldham (1906)**</span>
      </details>
 
 
