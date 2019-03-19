@@ -107,7 +107,7 @@
 
 <details>
      <summary>Paper which suggested that magmatism occured after Ethiopia-Yemen separation?</summary>
-     <span style="color:#8b0000">**Kent (1997)**</span>
+     <span style="color:#8b0000"> **Kent (1997)** </span>
 </details>
 
 Some different text
