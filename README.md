@@ -107,10 +107,10 @@
 
 <details>
      <summary>Paper which suggested that magmatism occured after Ethiopia-Yemen separation?</summary>
-     <span style="color:#8b0000"> Testing **Kent (1997)** in bold </span>
+     <span style="color:red"> Kent (1997) </span>
 </details>
 
-Some different text
+
 
 
 ## 1. Inside the Earth <a name="1"></a>
