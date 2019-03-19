@@ -107,7 +107,7 @@
 
 <details>
      <summary>Paper which suggested that magmatism occured after Ethiopia-Yemen separation?</summary>
-     <span style="color:#8b0000;font-weight:bold"> Kent (1997) </span>
+     <span style="color:#d60404;font-weight:bold"> Kent (1997) </span>
 </details>
 
 
@@ -122,7 +122,7 @@
 
 
 <details><summary>Paper which suggested that the inner core is solid:</summary>
-     <span style="color:#8b0000">**Lehmann (1936)**</span>
+     <span style="color:#8b0000;font-weight:bold">**Lehmann (1936)**</span>
  </details>
 
 <details><summary>Paper which suggested that seismic velocity increases with depth:</summary>
