@@ -142,6 +142,7 @@
      <span style="color:#8b0000;font-weight:bold">Oldham (1906)</span>
 </details>
 
+<br/>
 * P/S wave speed diagram; shadow zone diagram; secular variation diagram. *
 
 
