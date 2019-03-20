@@ -1,4 +1,5 @@
-#  Earth Sciences Lectures <a name="top"></a>
+ <a name="top"></a>
+#  Earth Sciences Lectures
 <br/>
 ##### Introduction to the Earth
 1. [Lecture 1](#1)
@@ -108,7 +109,7 @@
 </details>
 
 
-## 1. Inside the Earth <a name="1"></a> [Back to top](#top)
+## 1. Inside the Earth <a name="1"></a> <div style="text-align: right"> [Back to top](#top) </div>
 
 * *What is the approximate increase of temperature with depth downwards from the surface?*
 * *Describe the differences and similarities between p- and s-waves. How do we know that s-waves are able to pass through the inner core?*
