@@ -111,7 +111,7 @@
 
 ## 1. Inside the Earth <a name="1"></a> 
 <div style="text-align:right">
-    [Back to top](#top)
+    Plain text
  </div>
 
 * *What is the approximate increase of temperature with depth downwards from the surface?*
