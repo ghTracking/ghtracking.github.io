@@ -110,12 +110,12 @@
 
 
 ## 1. Inside the Earth <a name="1"></a> 
-[Back to top](top)
+[Back to top](#top)
 
 * *What is the approximate increase of temperature with depth downwards from the surface?*
 * *Describe the differences and similarities between p- and s-waves. How do we know that s-waves are able to pass through the inner core?*
 * *What is the Preliminary Reference Earth Model?*
-* *Why is seismic attenuation another measure for evidence of Earth composition?*
+* *Why is seismic attenuation another measure for evidence of Earth composition?* 
 
 
 <details><summary>Paper which suggested that the inner core is solid:</summary>
@@ -138,7 +138,7 @@
      <span style="color:#8b0000;font-weight:bold">Oldham (1906)</span>
 </details>
 
-
+* P/S wave speed diagram; shadow zone diagram; secular variation diagram. *
 
 
 ## 2. Geological time <a name="2"></a> 
@@ -146,6 +146,7 @@
 
 * *What is the closure temperature of a mineral? Provide two examples.*
 * *Outline four of the primary geological laws used for deducing rock facies.*
+* *Outline the primary facies observed at Ketton.*
 
 
 <details><summary>Hutton's investigative interest:</summary>
