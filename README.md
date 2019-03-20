@@ -1,7 +1,7 @@
  <a name="top"></a>
  
 ## <a href="fossils">Fossils</a>
-<button onclick="location.href='fossils.md'" type="button" class="Button Button--large">View All Fossils</button>
+<button onclick="location.href='fossils'" type="button" class="Button Button--large">View All Fossils</button>
 
 #  Earth Sciences Lectures
 <br/>
