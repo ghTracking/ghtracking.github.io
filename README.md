@@ -1,6 +1,6 @@
  <a name="top"></a>
  
-## <a href="fossils">New fossils link</a>
+## <a href="fossils/">New fossils link</a>
 #  Earth Sciences Lectures
 <br/>
 ##### Introduction to the Earth
