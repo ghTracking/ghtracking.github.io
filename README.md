@@ -1,6 +1,6 @@
  <a name="top"></a>
  
-## <a href="fossils.md">Fossils</a>
+## <a href="https://ghtracking.github.io/fossils">Fossils</a>
 #  Earth Sciences Lectures
 <br/>
 ##### Introduction to the Earth
