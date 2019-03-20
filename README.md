@@ -110,7 +110,7 @@
 
 
 ## 1. Inside the Earth <a name="1"></a> 
-<div style="text-align: right"> <p> [take to top](top)</p> </div>
+[Back to top](top)
 
 * *What is the approximate increase of temperature with depth downwards from the surface?*
 * *Describe the differences and similarities between p- and s-waves. How do we know that s-waves are able to pass through the inner core?*
@@ -141,7 +141,8 @@
 
 
 
-## 2. Geological time <a name="2"></a> [Back to top](#top)
+## 2. Geological time <a name="2"></a> 
+[Back to top](#top)
 
 * *What is the closure temperature of a mineral? Provide two examples.*
 * *Outline four of the primary geological laws used for deducing rock facies.*
@@ -157,7 +158,8 @@
 
 
 
-## 3. Waterworld<a name="3"></a> [Back to top](#top)
+## 3. Waterworld<a name="3"></a> 
+[Back to top](#top)
 
 * *What did Milankovitch suggest about glacial cycles? What has other evidence provided?*
 * *Provide two examples of events which significantly affected the climate of the entire planet.*
@@ -176,13 +178,15 @@
 
 
 
-## 4. Deforming the Earth (more to add)<a name="4"></a> [Back to top](#top)
+## 4. Deforming the Earth (more to add)<a name="4"></a> 
+[Back to top](#top)
 
 * *What is the relationship for diffusion creep? Who provided evidence for this?*
 * *What power law does dislocation creep follow? Who provided evidence for this?*
 * *How do we predict the viscosity of the asthenosphere?*
 
-## 5. Gravity, Isostasy and Paleomagnetism(more to add) <a name="5"></a> [Back to top](#top)
+## 5. Gravity, Isostasy and Paleomagnetism(more to add) <a name="5"></a> 
+[Back to top](#top)
 
 * *When are Europe and North America believed to have converged diverged?*
 
@@ -194,21 +198,25 @@
 
 <span style="color:#8b0000;font-weight:bold">Paper which shows a geodynamo model: Glatzmeier and Roberts (1995).</span><br/>
 
-## 6. Secrets of the oceans <a name="6"></a> [Back to top](#top)
+## 6. Secrets of the oceans <a name="6"></a> 
+[Back to top](#top)
 
-## 7. Plate tectonics<a name="7"></a> [Back to top](#top)
+## 7. Plate tectonics<a name="7"></a> 
+[Back to top](#top)
 
 * *What is the cause of earthquakes at a depth of 70-300km?*
 * *What is the cause of intermediate earthquakes at subduction zones?*
 * *What is the cause of deep earthquakes at subduction zones?*
 
-## 8. Lithosphere and asthenosphere<a name="8"></a> [Back to top](#top)
+## 8. Lithosphere and asthenosphere<a name="8"></a> 
+[Back to top](#top)
 
 * *At what homologous temperature does asthenospheric transition typically occur?*
 * *Why is observed heat flow lower at a mid-ocean ridge?*
 * *What is potential temperature?*
 
-## 9. The Earth's building blocks<a name="9"></a> [Back to top](#top)
+## 9. The Earth's building blocks<a name="9"></a> 
+[Back to top](#top)
 * *What is the Earth made of?*
 * *What is a mineral?*
 * *What is a solid solution?* <br/>
@@ -217,9 +225,11 @@
 
 
 
-## 10. Symmetry and the 7 crystal systems<a name="10"></a> [Back to top](#top)
+## 10. Symmetry and the 7 crystal systems<a name="10"></a>
+[Back to top](#top)
 
 ## 11. Optics 1. Refraction and anisotropic materials<a name="11"></a>
+[Back to top](#top)
 
 * *What interesting property does zircon exhibit?*
 * *Describe the Becke line test.*
@@ -228,18 +238,20 @@
 
 
 ## 12. Optics 2. Crossed polars and birefringence<a name="12"></a>
+[Back to top](#top)
 
 * *What is path difference/retardation and birefringence?*
 * *What is the characteristic terminal violet shade at the end of the Michel-Levy chart known as?*
 
 ## 13. Optics 3. The optical indicatrix<a name="13"></a>
-
+[Back to top](#top)
 
 * *Identify the differences between ortho- and clinopyroxene.*
 * *Outline how the plagioclase solid solution series can be identified through extinction angles.*
 
 
 ## 14. Journey to the Centre of the Earth<a name="14"></a>
+[Back to top](#top)
 
 * *Outline the three main types of packing  believed to be present for Fe in the inner core. Include their percentage packing volume.*
 * *Why might bcc be a viable candidate for iron structure in the core?*
@@ -251,20 +263,26 @@
 * *What is a means of storing water in the deeper mantle?*
 
 ## 15. Generation & ascent of magma <a name="15"></a>
+[Back to top](#top)
 
 ## 16. Emplacement of magma and volcanic eruptions <a name="16"></a>
+[Back to top](#top)
 
 ## 17. Formation of oceanic crust<a name="17"></a>
+[Back to top](#top)
 
 ## 18. Destruction of oceanic crust <a name="18"></a>
+[Back to top](#top)
 
 * 
 
 ## 19. Continental collisions: Introduction to metamorphic rocks <a name="19"></a>
+[Back to top](#top)
 
 * *How does the abundance of micaceous materials vary between schist and gneiss?*
 
 ## 20. Continental collisions: Granites, contact metamorphism & the bigger picture <a name="20"></a>
+[Back to top](#top)
 * *Why does granite form as a post-tectonic intrusion?*
 * *What is the name of the structure that forms during contact metamorphism and what is its composition?*
 * *What are the main types of rock microstructure? Draw them.*
@@ -283,10 +301,13 @@
 
 
 ## 21. Deformation of the continents <a name="21"></a>
+[Back to top](#top)
 
 ## 22. Why does it all happen?<a name="22"></a>
+[Back to top](#top)
 
 ## 23. Isotope geochemistry <a name="23"></a>
+[Back to top](#top)
  
 * *Write an equation for the formation of Helium in stars.*
 * *How are elements with atomic numbers greater than iron generated? Why is this?*
@@ -294,6 +315,7 @@
 * *Describe the r-process.*
 
 ## 24. Planets and their satellites <a name="24"></a>
+[Back to top](#top)
 
 * *Why can K/U ratios be used to deduce planetary abundance?*
 * *What is the significance of the moon's $^{41}K  / ^{39}K$ ratio?*
@@ -308,6 +330,7 @@
 * *What property of this system is of interest?*
 
 ## 25. Life, the universe and everything - an introduction to the fossil record<a name="25"></a>
+[Back to top](#top)
 
 * *Outline 6 areas in which fossils are able to provide us detail.*
 * *Provide two pieces of evidence for early hominid forms.*
@@ -324,24 +347,32 @@
 
 
 ## 26. Early on life on Earth - the first two billion years<a name="26"></a>
+[Back to top](#top)
 * *Explain the importance of the gunflint chert. How does this relate to other stratigraphy mentioned in 'Life on a Young Planet'?*
 * *Why is it possible that more soft-bodied organisms existed in the Proterozoic eon?*
 * *What are stromatolites?*
 * *Illustrate the process of stromatolite formation.*
 
 ## 27. Classification schemes and the Cambrian explosion<a name="27"></a>
+[Back to top](#top)
 
 ## 28. Taphonomy - the science of death and decay<a name="28"></a>
+[Back to top](#top)
 
 ## 29. Palaeoecology - making a living in deep time<a name="29"></a>
+[Back to top](#top)
 
 ## 30. Fossils as palaeoenvironmental indicators<a name="30"></a>
+[Back to top](#top)
 
 ## 31. Biostratigraphy and palaeobiogeography<a name="31"></a>
+[Back to top](#top)
 
 ## 32. The evolution of plants and invasion of the land<a name="32"></a>
+[Back to top](#top)
 
 ## 33. Evolutionary principles & terrrestrialisation<a name="33"></a>
+[Back to top](#top)
 * *What are the four primary premises from which the theory of natural selection is derived?*
 * *What are the three types of selection? Over evolutionary timescales, what do these lead to?*
 * *What are the origins of the behavioural differentiation in cladogenesis?*
@@ -351,59 +382,86 @@ Evidence supports idea of punctuated equilibrium*
 
 
 ## 34. Evolutionary transitions and extinction<a name="34"></a>
+[Back to top](#top)
 
 ## 35. Macroevolutionary patterns and mass extinction<a name="35"></a>
+[Back to top](#top)
 
 ## 36. Engineering the planet<a name="36"></a>
+[Back to top](#top)
 
 * *According to Bar-On et. al (2018), that percentage of present day biomass is contained in embryophytes? *
 
 
 ## 37. Sediments & Sedimentary Rocks <a name="37"></a>
+[Back to top](#top)
 
 ## 38. How to make sediment: Grains & Fluids<a name="38"></a>
+[Back to top](#top)
 
 ## 39. Bedforms, Sedimentary Structures & Facies<a name="39"></a>
+[Back to top](#top)
 
 ## 40. Sedimentary Environments I: Continents<a name="40"></a>
+[Back to top](#top)
 
 ## 41. Sedimentary Environments II: Conduits<a name="41"></a>
+[Back to top](#top)
 
 ## 42. Sedimentary Environments III: Marine<a name="42"></a>
+[Back to top](#top)
 
 ## 43. Overview of the modern climate system<a name="43"></a>
+[Back to top](#top)
 
 ## 44. Climate change: forcing and feedback<a name="44"></a>
+[Back to top](#top)
 
 ## 45. Global carbon cycle and geologic history of CO<sub>2</sub> variation <a name="45"></a>
+[Back to top](#top)
 
 ## 46. Cenozoic and quaternary climate history<a name="46"></a>
+[Back to top](#top)
 
 ## 47. Unlocking the mystery of the ice ages<a name="47"></a>
+[Back to top](#top)
 
 ## 48. Arran Field Course<a name="48"></a>
+[Back to top](#top)
 
 ## 49. The foundations of Britain and Ireland: basement terranes<a name="49"></a>
+[Back to top](#top)
 
 ## 50. Britain and Ireland through geological history<a name="50"></a>
+[Back to top](#top)
 
 ## 51. Closing the Iapetus Ocean: orogeny in action<a name="51"></a>
+[Back to top](#top)
 
 ## 52. Living on a supercontinent; Pangaea<a name="52"></a>
+[Back to top](#top)
 
 ## 53. Rifting the Atlantic: Britain back on the margin<a name="53"></a>
+[Back to top](#top)
 
 ## 54. Planetary life cycles - the birth and death of planets<a name="54"></a>
+[Back to top](#top)
 
 ## 55. Discovering other worlds - an exoplanet menagerie<a name="55"></a>
+[Back to top](#top)
 
 ## 56. Planetary habitability<a name="56"></a>
+[Back to top](#top)
 
 ## 57. Living with Earthquakes<a name="57"></a>
+[Back to top](#top)
 
 ## 58. Tsunamis<a name="58"></a>
+[Back to top](#top)
 
 ## 59. Volcanic eruptions and collapses<a name="59"></a>
+[Back to top](#top)
 
 ## 60. Energy issues: the role of the geologist<a name="60"></a>
+[Back to top](#top)
 
