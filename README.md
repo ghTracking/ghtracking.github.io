@@ -3,6 +3,16 @@
 ## <a href="fossils">Fossils</a>
 <button onclick="location.href='fossils'" type="button" class="Button Button--large">View All Fossils</button>
 
+## To do:
+* Weird points like coal
+   * (Rereading and renoting from paleo practicals); reading peat bog pages
+   * Read pages in bookmarks
+   * FINISH READING LYP, WRITE REFLECTIONS
+   * Resread all of seds
+   * Learn research papers for each topic
+   * Ensure diagramatic knowledge is secure
+   * Reread Earth Materials and note
+
 #  Earth Sciences Lectures
 <br/>
 ##### Introduction to the Earth
