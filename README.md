@@ -1,4 +1,4 @@
-#  Earth Sciences Lectures
+#  Earth Sciences Lectures <a name="top"></a>
 <br/>
 ##### Introduction to the Earth
 1. [Lecture 1](#1)
@@ -96,7 +96,7 @@
 60. [Lecture 60](#60)
 
 
-## Find place to add 
+## Find place to add [Back to top](#top)
 
 * *What are the calcic/sodic end-members of plagioclase?*
 * *What are the iron/magnesium end-members of plagioclase?*
@@ -108,7 +108,7 @@
 </details>
 
 
-## 1. Inside the Earth <a name="1"></a>
+## 1. Inside the Earth <a name="1"></a> [Back to top](#top)
 
 * *What is the approximate increase of temperature with depth downwards from the surface?*
 * *Describe the differences and similarities between p- and s-waves. How do we know that s-waves are able to pass through the inner core?*
@@ -139,7 +139,7 @@
 
 
 
-## 2. Geological time <a name="2"></a>
+## 2. Geological time <a name="2"></a> [Back to top](#top)
 
 * *What is the closure temperature of a mineral? Provide two examples.*
 * *Outline four of the primary geological laws used for deducing rock facies.*
@@ -155,7 +155,7 @@
 
 
 
-## 3. Waterworld<a name="3"></a>
+## 3. Waterworld<a name="3"></a> [Back to top](#top)
 
 * *What did Milankovitch suggest about glacial cycles? What has other evidence provided?*
 * *Provide two examples of events which significantly affected the climate of the entire planet.*
@@ -174,13 +174,13 @@
 
 
 
-## 4. Deforming the Earth (more to add)<a name="4"></a>
+## 4. Deforming the Earth (more to add)<a name="4"></a> [Back to top](#top)
 
 * *What is the relationship for diffusion creep? Who provided evidence for this?*
 * *What power law does dislocation creep follow? Who provided evidence for this?*
 * *How do we predict the viscosity of the asthenosphere?*
 
-## 5. Gravity, Isostasy and Paleomagnetism(more to add) <a name="5"></a>
+## 5. Gravity, Isostasy and Paleomagnetism(more to add) <a name="5"></a> [Back to top](#top)
 
 * *When are Europe and North America believed to have converged diverged?*
 
@@ -192,21 +192,21 @@
 
 <span style="color:#8b0000;font-weight:bold">Paper which shows a geodynamo model: Glatzmeier and Roberts (1995).</span><br/>
 
-## 6. Secrets of the oceans <a name="6"></a>
+## 6. Secrets of the oceans <a name="6"></a> [Back to top](#top)
 
-## 7. Plate tectonics<a name="7"></a>
+## 7. Plate tectonics<a name="7"></a> [Back to top](#top)
 
 * *What is the cause of earthquakes at a depth of 70-300km?*
 * *What is the cause of intermediate earthquakes at subduction zones?*
 * *What is the cause of deep earthquakes at subduction zones?*
 
-## 8. Lithosphere and asthenosphere<a name="8"></a>
+## 8. Lithosphere and asthenosphere<a name="8"></a> [Back to top](#top)
 
 * *At what homologous temperature does asthenospheric transition typically occur?*
 * *Why is observed heat flow lower at a mid-ocean ridge?*
 * *What is potential temperature?*
 
-## 9. The Earth's building blocks<a name="9"></a>
+## 9. The Earth's building blocks<a name="9"></a> [Back to top](#top)
 * *What is the Earth made of?*
 * *What is a mineral?*
 * *What is a solid solution?* <br/>
@@ -215,7 +215,7 @@
 
 
 
-## 10. Symmetry and the 7 crystal systems<a name="10"></a>
+## 10. Symmetry and the 7 crystal systems<a name="10"></a> [Back to top](#top)
 
 ## 11. Optics 1. Refraction and anisotropic materials<a name="11"></a>
 
