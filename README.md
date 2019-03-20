@@ -1,6 +1,6 @@
  <a name="top"></a>
  
-## <a href="fossils">New, new fossils link</a>
+## <a href="fossils">Fossils</a>
 <button onclick="location.href='fossils.md'" type="button" class="Button Button--large">View All Fossils</button>
 
 #  Earth Sciences Lectures
