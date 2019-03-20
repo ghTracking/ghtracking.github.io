@@ -1,6 +1,6 @@
  <a name="top"></a>
  
-## <a href="fossils.md">Page 2</a>
+## <a href="fossils.md">Fossils</a>
 #  Earth Sciences Lectures
 <br/>
 ##### Introduction to the Earth
