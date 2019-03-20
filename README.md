@@ -110,7 +110,7 @@
 
 
 ## 1. Inside the Earth <a name="1"></a>
-<p class="text-right"> [Back to top](#top) </p>
+<div style="text-align:right"> [Back to top](#top) </div>
 
 * *What is the approximate increase of temperature with depth downwards from the surface?*
 * *Describe the differences and similarities between p- and s-waves. How do we know that s-waves are able to pass through the inner core?*
