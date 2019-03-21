@@ -45,5 +45,7 @@ Soft substrate: rhizopedunculate
   * Evolution by allopatric speciation
 * High energy environment : low-spired and thick shell
 
+### Nautilus, ammonite comparisons
+
 ### Corals
 * Epithecae (layer of calc. carb.) suggest that Earth's rate of rotation is decreasing (400 days in a year in Devonian)
