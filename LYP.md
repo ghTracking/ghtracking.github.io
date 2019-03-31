@@ -54,7 +54,13 @@ One possible route for the emergence of oxygen involves the impact of methane re
 
 ## Chapter 7 The Cyanobacteria, Life's Microbial Heroes
 <p><a href="#top">Back to top</a></p>
+* Great Wall (Bil'yakh Group) - 1.5 Ga fossils preserved in chert
 
+Cell differentiation is a difficult feat to accomplish and observe in cyanobacteria. The presence of archaeoellipsoides leads us to believe that evolutionary diversification must have occurred earlier than 1.5 Ga, as observed from molecular phylogenies. Furthermore, eoentophysalis resembles the modern entophysalis extremely closely, suggesting that only minimal further changes must have occurred from 1.5 Ga to the present day in this life form, once again implying that major diversification and evolutionary changes took place in cyanobacteria earlier in time. Nevertheless, these genera are likely to have undergone inherent nucleotide sequence changes over time. 
+
+There is also further suggestion that convergence of species as a result of physiology changes are affected by the environment. Filamentous and unicellular forms appeared to have evolved within the same scope as the cyanobacteria, 2.1 Ga.
+
+Unlike the successions of Spitsbergen, the Bil'yakh Group does not appear to contain fossils such as polybessurus. One may impart that absence of evidence is not evidence for absence, but there are several ways to deduce that the environment of deposition was different, despite the great similarities between the groups. Perhaps most notably, stromatolite structures display variations in microfabric. This is due to the fact that modes of carbonate deposition varied, which also therefore reflects changes in seawater chemistry. The Great Wall features vertical tufts of blue-green filaments, showing that they were stiffened by calcium carbonate before burial in the tidal flats. Thus, Proterozoic stromatolites serve as environmental dipsticks for O<sub>2</sub> and CO<sub>2</sub> seawater levels. 
 
 
 ## Chapter 8 The Origins of Eukaryotic Cells
