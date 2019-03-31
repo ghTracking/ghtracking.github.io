@@ -44,10 +44,17 @@ Rocks from Akilia Island show fractionation of carbon isotopes. However, this ev
 * The 2 billion-year-old Gunflint Formation holds fossil evidence of bacterial life forms in chert. These lived in an iron-rich marine environment
 * Biomarker evidence has been discovered in shales in proximity to North Pole, northwestern Australia. The presence of 2-methylhopane highlights evidence for biological processes and more importantly, dated Archean origins of cyanobacteria. Similarly, steranes also exist within these rocks, suggesting that they once formed constituents of membrane-stiffening compounds. 
 
-Banded Iron Formations persisted until around 1.8 Ga
+Banded Iron Formations persisted until around 1.8 Ga; red beds appeared 2.2 Ga. The occurrence of pyrite, siderite and uraninite is only found prominently in rocks older than 2.2 Ga.
+
+In an oxygen-rich environment, weathered iron is converted immediately back to oxides, therefore remaining in place. Conversely, such evidence may only be indicative of local environments, and requires further evidence such as the presence of steranes to support the isolation of oxygen in a given time period. To add further complication, the existence of steranes may only only reflect the local environment, rather than the entire planet as a whole. 
+
+Unusual chemical signatures found in Precambrian beds suggest that further mechanisms in addition to photosynthesis to create significant amounts of fractionation. These are believed to originate from the prominence of methanogens, whose contributions to fractionation eliminate the discrepancy. Values of <sup>13</sup>Crose to levels of approximately 40 parts per thousand. On the other hand, the dominance of methanogens declines through the lower Proterozoic. The limited amount of sulfur fractionation in the Archean Eon and its emergence in the Lower Proterozoic suggest that oxygen levels must have risen in order to increase the abundance of sulfate in seawater.
+
+One possible route for the emergence of oxygen involves the impact of methane releaed by bacteria from deep marine environments. By the time of the late Archean, these gases would have reached the top of the atmosphere. Following this, it would have been photolysed to form H<sub>2</sub>. The molecular weight of this gas allows it to attain the escape velocity to leave the atmosphere. Its greater absence from the mixture of gases on Earth may have allowed an oxygenic environment to have developed more easily. With the coincidence of the decline of volcanic activity, the number of oxygen-consuming gases would have also decreased. The NASA Ames Research Center has attempted to describe the significance and order of each of these events which relieved the 'oxygen brake', but to no current general consensus. Limestones and dolomites also provide evidence to support the fact that the organic burial occurred at a greater rate during this time period. Absolute values of carbon present in the sedimentary record are significantly higher, suggesting that oxygen should have increased in the oceans as a result of this. Apparent subsequent recessions in the quantity of oxygen are most likely to be due to the fact that the atoms contributed to the formation of sulfate ions within the water.
 
 ## Chapter 7 The Cyanobacteria, Life's Microbial Heroes
 <p><a href="#top">Back to top</a></p>
+
 
 
 ## Chapter 8 The Origins of Eukaryotic Cells
