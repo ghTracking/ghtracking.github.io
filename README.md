@@ -3,6 +3,7 @@
 ## <a href="fossils">Fossils</a>
 ## <a href="basicpaleo">Basic Paleo notes</a>
 ## <a href="LYP">Life on a Young Planet</a>
+## <a href="Practicals">Practicals</a>
 <button onclick="location.href='fossils'" type="button" class="Button Button--large">View All Fossils</button>
 
 ## To do:
