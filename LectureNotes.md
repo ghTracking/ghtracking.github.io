@@ -206,22 +206,25 @@ The closure temperature of a mineral is the temperature at which an isotope deca
 * Lithosphere/asthenosphere in terminology - mechanical
 * Gobi-Altay Fault offset (1957) - 3.5m
 * San Andreas Fault offset (1857) - 8.5m
-* At low stress and high homologous temperature, diffusion creep occurs. This may be Nabarro-Herring or Coble.  $\dot{ε} = Aσ<sup>n</sup>$
-     * *What power law does dislocation creep follow? Who provided evidence for this?*
-* *How do we predict the viscosity of the asthenosphere?*
+* At low stress and high homologous temperature, diffusion creep occurs. This may be Nabarro-Herring or Coble.  ε rate = Aσ<sup>n</sup>, where n=1.
+* Rheological tests performed by Karato (1986) suggested that dislocation creep follows a power law with n ≈ 3
+* The viscosity of the mantle may be predicted by measurements of post-glacial rebound. This is achieved by measuring rates of isostatic response at the Gulf of Bothania, Scandinavia. A rate of 10 mm yr<sup>-1</sup> leads to estimates of 10<sup>20</sup>Pa s.
+
+![Creep](https://ars.els-cdn.com/content/image/3-s2.0-B0080429939000929-gr2.gif)
+Fantozzi, G., Chevalier, J., Olagnon, C. and Chermant, J.L., 2000. Creep of ceramic matrix composites.
 
 ## 5. Gravity, Isostasy and Paleomagnetism(more to add) <a name="5"></a> 
 [Back to top](#top)
 
 * *When are Europe and North America believed to have converged diverged?*
-
+*
+*
 
 <details><summary>Paper which shows a geodynamo model:</summary>
      <span style="color:#8b0000;font-weight:bold">Glatzmeier and Roberts (1995)</span>
      
 </details>
 
-<span style="color:#8b0000;font-weight:bold">Paper which shows a geodynamo model: Glatzmeier and Roberts (1995).</span><br/>
 
 ## 6. Secrets of the oceans <a name="6"></a> 
 [Back to top](#top)
