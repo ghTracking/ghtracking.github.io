@@ -215,7 +215,8 @@
 [Back to top](#top)
 
 * *Outline the crucial evidence and observations that supported the theory of plate tectonics.*
-* *How does the p-wave velocity of a subducting slab compare to the surrounding mantle? What does this signify?*
+* *How does the seismic wave velocity in a subducting slab compare to the surrounding mantle? What does this signify?*
+* *Outline the three primary methods involved in the study of geodesy.*
 * *What is the cause of earthquakes at a depth of 70-300km?*
 * *What is the cause of intermediate earthquakes at subduction zones?*
 * *What is the cause of deep earthquakes at subduction zones?*
@@ -226,6 +227,8 @@
 * *At what homologous temperature does asthenospheric transition typically occur?*
 * *Why is observed heat flow lower at a mid-ocean ridge?*
 * *What is potential temperature?*
+* *Describe the infinite half-space cooling model.*
+* *Compare adiabatic decompression melting and flux melting.*
 
 ## 9. The Earth's building blocks<a name="9"></a> 
 [Back to top](#top)
