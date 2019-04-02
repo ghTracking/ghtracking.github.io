@@ -100,7 +100,7 @@
 ## Find place to add [Back to top](#top)
 
 * *What are the calcic/sodic end-members of plagioclase?*
-* *What are the iron/magnesium end-members of plagioclase?*
+* *What are the iron/magnesium end-members of olivine?*
 * *What are the three main types of magma? What are their typical silica contents?*
 * *What are the three primary ways in which the chemical composition of a magma is changed?*
 
@@ -113,9 +113,16 @@
 [Back to top](#top)
 
 * The temperature increase with depth is approximately 25<sup>o</sup> km<sup>-1</sup> away from tectonic plate boundaries.
-* *Describe the differences and similarities between p- and s-waves. How do we know that s-waves are able to pass through the inner core?*
-* *What is the Preliminary Reference Earth Model?*
-* *Why is seismic attenuation another measure for evidence of Earth composition?* 
+* p-waves
+     * Longitudinal motion
+     * Faster than s-waves
+     * Shadow zone between 103 and 142<sup>o</sup>.
+     * Approximately 250km from their source, p-waves arrive earlier than expected as they travel along the Mohorovicic Discontinuity (~30km below continental crust, ~8km below oceanic), which permits a greater velocity of 8km s<sup>-1</sup> compared to 6km s<sup>-1</sup> otherwise.
+* s-waves
+     * Transverse motion
+     * Known that they are able to pass through the inner core due to the existence of PKJKP waves, which reflect a mode of shear wave propagation through the inner core.
+* The Preliminary Earth Reference Model is a formulation developed in the 1980s which assumes that the interior of the Earth is radially symmetric, allowing seismic velocities to be deduced. Hence, without deep excavation, elastic properties and densities of materials can be obtained, providing a greater understanding of Earth's composition.
+* Seismic attenuation is dependent on the temperature of the surrounding material, as well as a possible magma's content and composition. Therefore, it is able to serve as a good indicator of structure, provided that the dissipation of energy by frictional means or generally spreading over a larger area does not significantly affect the results.
 
 
 <details><summary>Paper which suggested that the inner core is solid:</summary>
@@ -145,9 +152,19 @@
 ## 2. Geological time <a name="2"></a> 
 [Back to top](#top)
 
-* *What is the closure temperature of a mineral? Provide two examples.*
-* *Outline four of the primary geological laws used for deducing rock facies.*
-* *Outline the primary facies observed at Ketton.*
+The closure temperature of a mineral is the temperature at which an isotope decay system is determined to be closed, meaning there is no loss of daughter atom material. This allows for valid dating to take place. In Zircon, the U-Pb temperature is approximately 750 <sup>o</sup>, whereas the corresponding value for K-Ar in biotite is 300<sup>o</sup>. 
+* Four primary laws for deducing rock facies
+     * Principle of initial horizontality
+     * Principle of cross-cutting relationships
+     * Principle of superposition
+     * Principle of lateral continuity
+* Ketton facies
+     * Lincolnshire limestone 
+          * Ooids - shallow, turbulent, high energy environment
+     * Upper Estuarine Series (Rutland Formation)
+          * Shales/silts - paludal
+     * Unconformity from Jurassic to Quaternary
+     * Glacial sediments (boulder-clay, gravel)
 
 
 <details><summary>Hutton's investigative interest:</summary>
