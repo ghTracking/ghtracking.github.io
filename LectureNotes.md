@@ -211,14 +211,25 @@ The closure temperature of a mineral is the temperature at which an isotope deca
 * The viscosity of the mantle may be predicted by measurements of post-glacial rebound. This is achieved by measuring rates of isostatic response at the Gulf of Bothania, Scandinavia. A rate of 10 mm yr<sup>-1</sup> leads to estimates of 10<sup>20</sup>Pa s.
 
 ![Creep](https://ars.els-cdn.com/content/image/3-s2.0-B0080429939000929-gr2.gif)
+
 Fantozzi, G., Chevalier, J., Olagnon, C. and Chermant, J.L., 2000. Creep of ceramic matrix composites.
 
 ## 5. Gravity, Isostasy and Paleomagnetism(more to add) <a name="5"></a> 
 [Back to top](#top)
 
-* *When are Europe and North America believed to have converged diverged?*
-*
-*
+* The geoid is the equipotential gravity surface that extends and undulates across the surface of the Earth. It corresponds to sea surface. Importantly, long-wavelength observations differ from theoretical calculations by less than 100m, meaning anomalies reflect activity at depth. 
+* Apparent Polar Wander Paths of Europe and North America converge in Silurian time and appear to diverge in the Jurassic Period
+     * However, this correlation is only achieved when plotting the continental edges
+     * The use of selective evidence caused many to initially doubt Wegener's ideas of continental drift. Paleomagnetism strengthened and supported the theory of plate tectonics as a result of evidence for magnetic reversals in seafloor suites
+* Paleomagnetism
+     * Chemo-remnant
+          * Magnetisation acquired by iron oxides through phase changes at low temperature. Believed to be the magnetic origin of 'red beds' - Haematite in New Red Sandstone of Arran
+     * Thermo-remnant
+          * Cooling of mineral through Curie point (e.g. 500<sup>o</sup>C in magnetite)
+     * Detrital-remnant
+          * Directionality of field preserved by deposition of sediment.
+     * tan I = 2 tan λ
+
 
 <details><summary>Paper which shows a geodynamo model:</summary>
      <span style="color:#8b0000;font-weight:bold">Glatzmeier and Roberts (1995)</span>
@@ -229,8 +240,19 @@ Fantozzi, G., Chevalier, J., Olagnon, C. and Chermant, J.L., 2000. Creep of cera
 ## 6. Secrets of the oceans <a name="6"></a> 
 [Back to top](#top)
 
+* One of the fundamental differences between the Mid-Atlantic Ridge and the East Pacific Rise is that the former exhibits a median valley, whereas the latter does not. These bathymetric differences are likely to be due to the fact that the East Pacific Rise is a faster spreading ridge (200mm<sup>-1</sup> compared to 25mm<sup>-1</sup>), meaning the graben feature is not permitted to form.
+* Magnetic timescale (from present) : Brunhes, Matuyama, Gauss, Gilbert
+
 ## 7. Plate tectonics<a name="7"></a> 
 [Back to top](#top)
+
+* Crucial evidence for plate tectonics
+     * Magnetic signature of oceanic crust (Vine-Matthews)
+     * Deep Earthquakes of Pacific (Benioff)
+     * Transform faults (Wilson)
+     * _Faciliatated by:_
+          * Deep Sea Drilling Project
+          * World-Wide Standardised Seismograph Network
 
 * *What is the cause of earthquakes at a depth of 70-300km?*
 * *What is the cause of intermediate earthquakes at subduction zones?*
@@ -448,6 +470,7 @@ Evidence supports idea of punctuated equilibrium*
 ## 45. Global carbon cycle and geologic history of CO<sub>2</sub> variation <a name="45"></a>
 [Back to top](#top)
 
+* Major sinks of evolved CO<sub>2</sub> are the land (7 billion tons) and the ocean (11 billion tons).
 ## 46. Cenozoic and quaternary climate history<a name="46"></a>
 [Back to top](#top)
 
