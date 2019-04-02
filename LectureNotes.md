@@ -222,11 +222,11 @@ Fantozzi, G., Chevalier, J., Olagnon, C. and Chermant, J.L., 2000. Creep of cera
      * However, this correlation is only achieved when plotting the continental edges
      * The use of selective evidence caused many to initially doubt Wegener's ideas of continental drift. Paleomagnetism strengthened and supported the theory of plate tectonics as a result of evidence for magnetic reversals in seafloor suites
 * Paleomagnetism
-     * Chemo-remnant
+     * Chemo-remanent
           * Magnetisation acquired by iron oxides through phase changes at low temperature. Believed to be the magnetic origin of 'red beds' - Haematite in New Red Sandstone of Arran
-     * Thermo-remnant
+     * Thermo-remanent
           * Cooling of mineral through Curie point (e.g. 500<sup>o</sup>C in magnetite)
-     * Detrital-remnant
+     * Detrital-remanent
           * Directionality of field preserved by deposition of sediment.
      * tan I = 2 tan λ
 
@@ -253,17 +253,37 @@ Fantozzi, G., Chevalier, J., Olagnon, C. and Chermant, J.L., 2000. Creep of cera
      * _Faciliatated by:_
           * Deep Sea Drilling Project
           * World-Wide Standardised Seismograph Network
-
-* *What is the cause of earthquakes at a depth of 70-300km?*
+* The seismic wave velocity of a subducting slab is 6% greater than the surrounding mantle, suggesting that it is colder.
+* Geodesy
+     * Very Long Baseline Interferometry (VLBI)
+          * Radio telescopes
+     * Satellite Laser Ranging (SLR)
+          * Distance to satellite from surface lasers
+     * Global Positioning System (GPS)
+          * Using trilateration of multiple satellites
+* Subduction zone volcanism
+     * Up to 25km - flexural bending induced additional pressure onto upper plate of subducting slab
+     * 25-70km - fluid assisted thrust faulting
+     * 70-300km - dehydration of serpentine, with related mechanisms of brittle fracture denoted as dehydration embrittlement.
+     * Deep earthquakes - anticrack faulting (Green, 1989): microphysics of olivine phase transitions, particularly with regard to it behaviour in a metastable state.
+At a 
 * *What is the cause of intermediate earthquakes at subduction zones?*
 * *What is the cause of deep earthquakes at subduction zones?*
+
+
+<details><summary>Paper which provides a possible mechanism for deep earthquakes at subduction zones:</summary>
+     <span style="color:#8b0000;font-weight:bold">Green (1989)</span>
 
 ## 8. Lithosphere and asthenosphere<a name="8"></a> 
 [Back to top](#top)
 
-* *At what homologous temperature does asthenospheric transition typically occur?*
-* *Why is observed heat flow lower at a mid-ocean ridge?*
-* *What is potential temperature?*
+* Asthenospheric transition tends to take place at a homologous temperature of 0.85.
+* Observed heat flow is lower at a MOR as it occurs by hydrothermal convective circulation, rather than conduction.
+* Potential temperature is the temperature that would be observed at the Earth's surface if the adiabatic gradient from the mantle were extracted up along the same line and followed accordingly. 
+* d = 2500 + 350 √(t), provided that the age is less than 70 Ma and the depth is less than 5000m.
+     * Assumed that material originates from an infinite depth at x=0
+     * The plate cooling model deems that isotherms eventually become horizontal, which is also reflected in the constancy of water depth.
+* Adiabatic decompression melting occurs when the adiabat intersects the solidus and partial melting occurs. Flux melting is similar to this process, but the inclusion of water means that the solidus temperature is lowered and therefore melting occurs more readily.
 
 ## 9. The Earth's building blocks<a name="9"></a> 
 [Back to top](#top)
