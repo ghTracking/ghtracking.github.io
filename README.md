@@ -6,6 +6,7 @@
 ## <a href="Practicals">Practicals</a>
 ## <a href="LectureNotes">Lecture Notes</a>
 ## <a href="LectureQs">Lecture Questions</a>
+## <a href="EarthMaterials">Earth Materials</a>
 <button onclick="location.href='fossils'" type="button" class="Button Button--large">View All Fossils</button>
 
 ## To do:
