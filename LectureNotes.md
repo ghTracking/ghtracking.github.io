@@ -152,7 +152,7 @@
 ## 2. Geological time <a name="2"></a> 
 [Back to top](#top)
 
-The closure temperature of a mineral is the temperature at which an isotope decay system is determined to be closed, meaning there is no loss of daughter atom material. This allows for valid dating to take place. In Zircon, the U-Pb temperature is approximately 750 <sup>o</sup>, whereas the corresponding value for K-Ar in biotite is 300<sup>o</sup>. 
+The closure temperature of a mineral is the temperature at which an isotope decay system is determined to be closed, meaning there is no loss of daughter atom material. This allows for valid dating to take place. In Zircon, the U-Pb temperature is approximately 750<sup>o</sup>C, whereas the corresponding value for K-Ar in biotite is 300<sup>o</sup>C. 
 * Four primary laws for deducing rock facies
      * Principle of initial horizontality
      * Principle of cross-cutting relationships
@@ -180,9 +180,11 @@ The closure temperature of a mineral is the temperature at which an isotope deca
 ## 3. Waterworld<a name="3"></a> 
 [Back to top](#top)
 
-* *What did Milankovitch suggest about glacial cycles? What has other evidence provided?*
-* *Provide two examples of events which significantly affected the climate of the entire planet.*
-* *How do foraminifera provide evidence of oxygen isotope concentration in the sea?*
+* *For greater detail of Milankovitch cycles and foraminifera as indicators, see climate lecture series*
+* One species of foram coils to right in ice-free waters
+* Seawater enriched in <sup>16</sup>O when permanent ice caps exist - preserved in foram fossils
+* The eruption of Mt Pinatubo in 1990 caused a global temperature decrease of 0.5<sup>o</sup>C. Similarly, the eruption of Krakatau in 1883 led to significant atmospheric changes, most notably in the increase of SO<sub>2</sub> in the atmosphere. Consequently, cloud albedo increased and temperature reduced. Evidence for substantial atmospheric alteration is evidenced from the expressive artwork of the period.
+* Occurring 25 times during the last glacial period, Dansgaard-Oeschger Events are short-scale rapid warming events. Some have suggested that these occurrences feature some quasi-periodicity; this is perhaps reconciled by considering the effect on ocean water currents and their tendency to instigate long-term feedback processes.
 
 <details><summary>Paper which provided evidence for Milankovitch's ideas of glavial cycles:</summary>
      <span style="color:#8b0000;font-weight:bold">Hays, Imbrie, Shackleton (1976)</span>
@@ -200,8 +202,12 @@ The closure temperature of a mineral is the temperature at which an isotope deca
 ## 4. Deforming the Earth (more to add)<a name="4"></a> 
 [Back to top](#top)
 
-* *What is the relationship for diffusion creep? Who provided evidence for this?*
-* *What power law does dislocation creep follow? Who provided evidence for this?*
+* Crust/mantle in terminology - compositional
+* Lithosphere/asthenosphere in terminology - mechanical
+* Gobi-Altay Fault offset (1957) - 3.5m
+* San Andreas Fault offset (1857) - 8.5m
+* At low stress and high homologous temperature, diffusion creep occurs. This may be Nabarro-Herring or Coble.  $\dot{ε} = Aσ<sup>n</sup>$
+     * *What power law does dislocation creep follow? Who provided evidence for this?*
 * *How do we predict the viscosity of the asthenosphere?*
 
 ## 5. Gravity, Isostasy and Paleomagnetism(more to add) <a name="5"></a> 
