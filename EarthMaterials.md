@@ -75,7 +75,7 @@ Ephemeral - lasting for a very short timE (e.g. river)
 
 * Clay particles settle on their (001) plane, leading to fissility of mudrock
 * _Chattanooga Shale, United States_ - laterally extensive, formed in shallow epeiric seas.
-* Breccia is the term used for congolmerates where grains are typically angular.
+* Breccia is the term used for conglomerates where grains are typically angular.
 * Conglomerate with one clast type: oligomict; many clast types: polymict
 * Cyanobacteria produce filamentous mats which are able to trap carbonates in curved, laminated layers - stromatolite
 * Limestone formed in freshwater lakes forms interlayers with siliciclastic rocks. With more clay in its structure, the limestone is known as a marl. Limestone which forms near hot springs is known as a travertine. Circulation cells in water established by heating cause a pressure decrease at depth, leading to CO<sub>2</sub> exsolution.
