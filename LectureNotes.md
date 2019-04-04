@@ -99,8 +99,8 @@
 
 ## Find place to add [Back to top](#top)
 
-* *What are the calcic/sodic end-members of plagioclase?*
-* *What are the iron/magnesium end-members of olivine?*
+* Calcic plagioclase - anorthite. Sodic : albite
+* Fayalite Fe<sub>2</sub>SiO<sub>4</sub>. Forsterite Mg<sub>2</sub>SiO<sub>4</sub>
 * *What are the three main types of magma? What are their typical silica contents?*
 * *What are the three primary ways in which the chemical composition of a magma is changed?*
 
@@ -273,7 +273,6 @@ At a
 
 <details><summary>Paper which provides a possible mechanism for deep earthquakes at subduction zones:</summary>
      <span style="color:#8b0000;font-weight:bold">Green (1989)</span>
-</details>
 
 ## 8. Lithosphere and asthenosphere<a name="8"></a> 
 [Back to top](#top)
