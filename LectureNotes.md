@@ -273,6 +273,7 @@ At a
 
 <details><summary>Paper which provides a possible mechanism for deep earthquakes at subduction zones:</summary>
      <span style="color:#8b0000;font-weight:bold">Green (1989)</span>
+</details>
 
 ## 8. Lithosphere and asthenosphere<a name="8"></a> 
 [Back to top](#top)
