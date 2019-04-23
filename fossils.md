@@ -24,7 +24,7 @@
 (Use Clarkson online?)
 https://pdfs.semanticscholar.org/43a2/72dd54dfc61181570b135087977edc7e7948.pdf (chapter 1)
 
-https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-110-sedimentary-geology-spring-2007/lecture-notes/ch9b.pdf
+from: https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-110-sedimentary-geology-spring-2007/lecture-notes/ch9b.pdf
 
 PHYLUM BRACHIOPODA
 * Brachiopods are filter feeders
@@ -105,9 +105,9 @@ CLASS TRILOBITA
 * Stratigraphy of Middle Cambrian
 
   
-https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-110-sedimentary-geology-spring-2007/lecture-notes/ch9a.pdf
+from: https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-110-sedimentary-geology-spring-2007/lecture-notes/ch9a.pdf
 
-Plants
+## Plants
 Gray (1977) suggested that a land flora existed prior to evidence of megafossils of the Late Silurian of more advanced vascular organisms. An 'evolutionary gap' seems to appear the phylogeny of such successions, although the presence of trilete spores seems to suggest that earlier development occurred than has been able to be so far observed. The primary basal lineages may have extended 100 Ma further into the past. Waters et al (1992) indicated that liverworts may have formed this lineage, with mosses, hornworts and vascular plants forming the later descendants. Karol et al (2010) investigated into several unexamined lineages to posit that hornworts and vascular plants may have been sisters as part of the monophyletic bryophyte group.
 
 https://libguides.cam.ac.uk/az.php?a=e : EBSCOHost
