@@ -65,8 +65,26 @@ Four main orders (three important):<\br>
 PHYLUM ECHINODERMATA <\br>
 CLASS CRINOIDEA
 * Pentameral symmetry
-* 
-  
+* Porous mesodermal calcite skeleton
+* Cup = theca; consists of calyx: thick, lower plates; tegmen: upper, flexible roof
+* (Of four orders,) Two orders extinct in Perman, one in triassic
+
+PHYLUM MOLLUSCA<\br>
+CLASS GASTROPODA
+* Head, foot, viscera
+* Radula allows for vegetation to be cut (herbivore)
+* Cannot find fossil opercula (plate which closes shell)
+* Slow evolution
+
+PHYLUM HEMICHORDATA<\br>
+CLASS PTEROBRANCHIA <\br>
+SUBCLASS GRAPTOLITHINA
+* Orders: dendroidea (benthic), graptoloidea (planktic)
+* Stratigraphy of lower Paleozoic shales
+* Morphology gives some insight into mode of life
+* Organic (scleroproteinaceous) skeleton
+* Early Cambrian to Late Carboniferous
+
   
 https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-110-sedimentary-geology-spring-2007/lecture-notes/ch9a.pdf
 https://libguides.cam.ac.uk/az.php?a=e : EBSCOHost
