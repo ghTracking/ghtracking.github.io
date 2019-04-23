@@ -1,5 +1,6 @@
  <a name="top"></a>
  
+## <a href="Books">Books</a>
 ## <a href="fossils">Fossils</a>
 ## <a href="basicpaleo">Basic Paleo notes</a>
 ## <a href="LYP">Life on a Young Planet</a>
