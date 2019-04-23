@@ -1,6 +1,6 @@
 
 <div class="navbar">
-  <a href="practicals">Practicals</a>
+  <a href="Practicals">Practicals</a>
   <a href="fossils">Fossils</a>
   <a href="LectureNotes">Lecture Notes</a>
   <a href="LectureQs">Lecture Questions</a>
