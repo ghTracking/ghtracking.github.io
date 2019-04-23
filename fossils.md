@@ -1,5 +1,5 @@
 <div class="navbar">
-  <a href="practicals">Practicals</a>
+  <a href="Practicals">Practicals</a>
   <a href="fossils">Fossils</a>
   <a href="LectureNotes">Lecture Notes</a>
   <a href="LectureQs">Lecture Questions</a>
@@ -40,8 +40,8 @@ PHYLUM BRYOZOA
 * USES? Not very useful stratigraphically due to their wide-ranging timescale. Paleoecological?
 * O'Dea and Okamura (1999) found that larger zooids were produced in winter months
 
-PHYLUM MOLLUSCA
-CLASS CEPHALOPDA
+PHYLUM MOLLUSCA <\br>
+CLASS CEPHALOPDA<\br>
 Stratigraphy:
   * Nautiloid - Cambrian
   * Goniatite - Devonian
@@ -49,10 +49,10 @@ Stratigraphy:
   * Ammonite - Jurassic
 * Maintain buoyancy through siphuncle
   
-PHYLUM CNIDARIA
-CLASS ANTHOZOA
-Corals
-Four main orders (three important):
+PHYLUM CNIDARIA<\br>
+CLASS ANTHOZOA<\br>
+Corals<\br>
+Four main orders (three important):<\br>
 * Rugosa - Cambrian to Triassic
   * Horn-shaped
   * Epithecae show changes in Earth's rate of rotation
@@ -62,6 +62,10 @@ Four main orders (three important):
   * The important reef builders
 * Paleoecological indicators
 
+PHYLUM ECHINODERMATA <\br>
+CLASS CRINOIDEA
+* Pentameral symmetry
+* 
   
   
 https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-110-sedimentary-geology-spring-2007/lecture-notes/ch9a.pdf
