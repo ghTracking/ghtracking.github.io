@@ -86,8 +86,25 @@ R. C. Selley
 ### Deltas
 
 * River dominated
+  * e.g. Mississippi
+  * 
 * Tide dominated
+  * e.g. Ganges
+  * Difficult to characterise due to inevitable fluvial influence
+  * Heterolithic sequence 
 * Wave dominated
+  * e.g. Nile
+  * Sand deposited and shifted to form barrier islands at edge of lagoon at delta periphery
+  <br>
+  General example:<br>
+  * Yoredale Series - upward coarsening cyclothem sequences
+    * Coals and rootlet beds - swamp
+    * Cross-bedded sands - alluvial distributary channel
+    * Rippled sands - delta platform (subaqueous)
+    * Laminated silts - prodelta
+    * Limestones - marine
+    
+  
 
 ### Linear clastic shorelines
 
@@ -103,7 +120,11 @@ R. C. Selley
 
 ### Reefs
 
-
+* Permian rocks of West Texas well-documented (Guadalupe mountains) over past Century
+* Fringing, barrier, atoll
+* Fringing arises as a result of lack of rainfall to prevent organism growth
+* Backreef lagoon, reef flat, fore-reef
+* Submarine cliff with talus slope at start of fore-reef
 
 ### Flysch and turbidites
 
