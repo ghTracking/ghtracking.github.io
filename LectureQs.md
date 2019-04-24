@@ -125,8 +125,8 @@
 * *What are the three main types of magma? What are their typical silica contents?*
 * *What are the three primary ways in which the chemical composition of a magma is changed?*
 
-<details><summary>Paper which suggested that magmatism occured after Ethiopia-Yemen separation:</summary>
-     <span style="color:#8b0000;font-weight:bold">Kent (1997)</span>
+<details><summary>Paper which suggested that magmatism occured after Ethiopia-Yemen separation and contrasted Afar hotspot with varying eruptive styles of other Traps such as Deccan:</summary>
+     <span style="color:#8b0000;font-weight:bold">Baker (1996)</span>
 </details>
 
 
