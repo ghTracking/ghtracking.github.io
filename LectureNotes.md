@@ -253,7 +253,6 @@ Fantozzi, G., Chevalier, J., Olagnon, C. and Chermant, J.L., 2000. Creep of cera
 
 <details><summary>Paper which shows a geodynamo model:</summary>
      <span style="color:#8b0000;font-weight:bold">Glatzmeier and Roberts (1995)</span>
-     
 </details>
 
 
