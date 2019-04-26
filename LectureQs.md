@@ -467,6 +467,14 @@ Evidence supports idea of punctuated equilibrium*
 ## 49. The foundations of Britain and Ireland: basement terranes<a name="49"></a>
 [Back to top](#top)
 
+* *Describe the arrrangement of faults in Scotland and their associated primary rock groups.*
+* *Outline the basement terranes of the previously existing Gondwana and Laurentia in Britain.*
+* *Describe the primary ways in which exotic terranes have accreted onto the craton of North America. *
+* *Provide an example of where the base of the Silurian can be observed in Scotland. Which rock group and which fossil species are used to date it?*
+* *Suggest the presence of another orogenic belt of Britain. Where in the world is it more successfully observed?*
+* *What were the phases of the Caledonian and Variscan orogenies? When did they take place?*
+* *Describe the progression of the Variscan orogeny from Cornwall to the Lake District*
+
 ## 50. Britain and Ireland through geological history<a name="50"></a>
 [Back to top](#top)
 
