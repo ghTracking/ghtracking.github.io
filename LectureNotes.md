@@ -562,12 +562,12 @@ Evidence supports idea of punctuated equilibrium*
 
 * Boscastle Cornwall displays Variscan folds, whereas Widemouth shows marginal folds. The forelands are observed further North, in the Peak District.
 
-  <details><summary>Key contributing papers to deducing structural evolution of Tay Nappe and Grampian Orogeny?:</summary>
+<details><summary>Key contributing papers to deducing structural evolution of Tay Nappe and Grampian Orogeny?</summary>
      <span style="color:#8b0000;font-weight:bold"> Chew (2003), Oliver (2002), Strachan (2000), Dewey and Shackleton (1984)  </span>
 </details>
 
   
-  <details><summary>What was suggested by Harte (1984)?:</summary>
+<details><summary>What was suggested by Harte (1984)?</summary>
      <span style="color:#8b0000;font-weight:bold">The Highland Border Complex could not easily be brought into contact with the underlying nappes of the Dalradian successions. Periodic uplift in combination with a strike-slip regime could possibly have taken place in the late Ordovician.  </span>
 </details>
   
