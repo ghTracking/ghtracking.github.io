@@ -524,15 +524,15 @@ Evidence supports idea of punctuated equilibrium*
 ## 49. The foundations of Britain and Ireland: basement terranes<a name="49"></a>
 [Back to top](#top)
 
-* From North to South:
-    *Lewisian (gneiss complex) + Torridonian (sandstone + grit) - reminder: Torridon facies as indicator of ancient sedimentary environments
-  * Moine Thrust
-   *Moine, Lewisian*
-  * Great Glen Fault
-   *Lewisian, Dalradian*
-  * Highland Boundary Fault
-   *Dalradian*
-  * Southern Uplands fault
+* From North to South: <br>
+   *Lewisian (gneiss complex) + Torridonian (sandstone + grit) - reminder: Torridon facies as indicator of ancient sedimentary environments*<br>
+  * Moine Thrust<br>
+   *Moine, Lewisian*<br>
+  * Great Glen Fault<br>
+   *Lewisian, Dalradian*<br>
+  * Highland Boundary Fault<br>
+   *Dalradian*<br>
+  * Southern Uplands fault<br>
   <br>
   
   * Basement terranes from North to South
