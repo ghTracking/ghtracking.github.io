@@ -524,6 +524,55 @@ Evidence supports idea of punctuated equilibrium*
 ## 49. The foundations of Britain and Ireland: basement terranes<a name="49"></a>
 [Back to top](#top)
 
+* From North to South:
+    *Lewisian (gneiss complex) + Torridonian (sandstone + grit) - reminder: Torridon facies as indicator of ancient sedimentary environments
+  * Moine Thrust
+   *Moine, Lewisian*
+  * Great Glen Fault
+   *Lewisian, Dalradian*
+  * Highland Boundary Fault
+   *Dalradian*
+  * Southern Uplands fault
+  <br>
+  
+  * Basement terranes from North to South
+    * Hebridean
+    * Central Highlands (Grampian)
+    * Midland Valley
+    * Central- Southern Uplands
+    * IAPETUS SUTURE
+    * Leinster - Lakesman
+    * (Monian composite)
+    * Cornubian
+    * North Armorican Composite
+  
+* Accretion of exotic terranes to North-West America:
+  * Deep-marine sediments
+  * Volcanic arcs
+  * Sliding continental crust
+  * Oceanic crust
+  
+* The base of the Silurian can be observed at Dobb's Linn. Key to this stratigraphy is the identification of Ordovician graptolite species in the Moffat Shale Series.
+
+* The Cadomian belt is likely to have been an active plate margin, with features of a subduction zone emerging in its geological appearance. However, this has not been studied as extensively as other orogenic events in Britain. It may be better observed in the Bohemian Massif within mainland Europe.
+
+* Caledonian (Ordovician to Devonian)
+  * Grampian - Scandian - Shelvian - Acadian
+  
+* Variscan (Carboniferous)
+
+* Boscastle Cornwall displays Variscan folds, whereas Widemouth shows marginal folds. The forelands are observed further North, in the Peak District.
+
+  <details><summary>Key contributing papers to deducing structural evolution of Tay Nappe and Grampian Orogeny?:</summary>
+     <span style="color:#8b0000;font-weight:bold"> Chew (2003), Oliver (2002), Strachan (2000), Dewey and Shackleton (1984)  </span>
+</details>
+
+  
+  <details><summary>What was suggested by Harte (1984)?:</summary>
+     <span style="color:#8b0000;font-weight:bold">The Highland Border Complex could not easily be brought into contact with the underlying nappes of the Dalradian successions. Periodic uplift in combination with a strike-slip regime could possibly have taken place in the late Ordovician.  </span>
+</details>
+  
+
 ## 50. Britain and Ireland through geological history<a name="50"></a>
 [Back to top](#top)
 
