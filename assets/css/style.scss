@@ -3,10 +3,19 @@
 
 @import "{{ site.theme }}";
 
+
+
 /* Navbar container */
 .navbar {
   overflow: hidden;
   background-color: #333;
+  font-family: Arial;
+}
+
+/* Navbar container */
+.navbar2 {
+  overflow: hidden;
+  background-color: #419a9b;
   font-family: Arial;
 }
 
