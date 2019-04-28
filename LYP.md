@@ -106,21 +106,68 @@ Wright (1932) - adaptive landscape: cyanobacterial stasis arises as a consequenc
 ## Chapter 9 Fossils of Early Eukaryotes
 <p><a href="#top">Back to top</a></p>
 
+* Doushantuo fossils older than Great Wall and Spitsbergen formations
+  * Eukaryotic presence shown by various 'ornamentations' which would not be present in bacteria
+* Veneer of clay has prevented infiltration of oxygen and absorbed decompositional enzymes, therefore preserving algae such as *Maiohephyton* very well
+* Doushantuo phosphates encompass fossils and ensure a pristine condition
+  * Captured red algae in statu nascendi
+* Great Wall 1.5 Ga
+* Doushantuo 590-600 Ma
+Extra:
+* Bangiomorpha discovery in Canada (red algae)
+* Similar to modern bangio
+* Important in complex multicellularity, sexual reproduction and early habits of eukaryotic evolution
+
+Unknown factors in eukaryotic evolution (why they only appeared 1 Ga)
+  * Production of sterols may not signify the 'complete' eukaryotic cell
+  * Possible later divergence
+  * Incomplete fossil record
+
 
 ## Chapter 10 Animals Take the Stage
 <p><a href="#top">Back to top</a></p>
 
+* Nama Group, Namibia
+  * Evidence of mineralisation prior to Cambrian
+  * Depressions made in sea floor environment must have been by animals
+* 'Vendobionts' represented by several possible species, although they may reflect a form of Rorschach test.
+  * May have been a colonial animal
+* Dickinsonia possible annelid worm, BUT:
+  * Lacks organ system
+  * Doubt over nature of morphology of tubular structures
+* Cnidaria achieved complexity by differentiating individual organisms within colonies
 
+  
+  
 ## Chapter 11 Cambrian Redux
 <p><a href="#top">Back to top</a></p>
+
+* Sponges diverged in the late Proterozoic
+* Archaeocyathans (carbonate-secreting sponges) were diverse across Cambrian oceans but died out within 20 million years. *sic transit gloria mundi
+* Cnidaria more complex than sponges as extracellular proteins bind cells to create sheets and divide the body into discrete tissues
+* The diversification of animal lineages through phylogenic branching is significantly different to branching within lineages
+* Crown vs stem groups
+* Burgess Shale highlights persistence of stem group animals, as well as emergence of crown groups.
+* Exploring molecular clock data and predictions, Wray (1996) inferred evolutionary divergence in genetic sequences. Although this form of technique introduces various uncertainties and inaccuracies, all variations appear to predict that animal evolution occurred earlier than expected.
 
 
 ## Chapter 12 Dynamic Earth, Permissive Ecology
 <p><a href="#top">Back to top</a></p>
 
+* Needs some deeper thought, isotopic levels are very complicated
+
 
 ## Chapter 13 Paleontology ad Astra
 <p><a href="#top">Back to top</a></p>
+
+* ALH-84001 meteorite
+  * Contains magnetite crystals similar to those found in bacterial cells
+  * Harbours complex molecules believed to be organic in origin
+  * Some interpretations of nanofossils, but not well supported
+
+<details><summary>Paper which suggested that morphology cannot be used as a distinct indicator of life:</summary>
+     <span style="color:#8b0000;font-weight:bold">Golden et al (2004). Their simulation of various magnetite structures by inorganic processes led to implications with respect to the nature of meteorites.</span>
+</details>
 
 
 ## Epilogue
