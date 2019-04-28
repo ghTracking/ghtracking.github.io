@@ -87,6 +87,21 @@ Wright (1932) - adaptive landscape: cyanobacterial stasis arises as a consequenc
 ## Chapter 8 The Origins of Eukaryotic Cells
 <p><a href="#top">Back to top</a></p>
 
+* Endosymbiosis - electron microscopy of late 20th century showed cyanobacteria similar to chloroplasts
+   * Made possible by cytoskeleton and dynamic membrane
+   * Evidence of algal symbionts in organisms such as foraminifera and radiolarians
+   * Unable to explain full eukaryotic structure
+   
+* Some mitochrondrial genes preserved in genetic vestiges of parasites
+ <details><summary>Paper which suggested that all embryotes possesed mitochondria, as they were prokaryotic symbiotes:</summary>
+     <span style="color:#8b0000;font-weight:bold">Martin and Müller (1998)</span>
+</details>
+
+<details><summary>Paper which suggested that a third organism was the source of remaining unidentifiable genes in eukaryotes (relating to cytoskeleton):</summary>
+     <span style="color:#8b0000;font-weight:bold">Hartman and Fedorov (2002)</span>
+</details>
+ 
+
 
 ## Chapter 9 Fossils of Early Eukaryotes
 <p><a href="#top">Back to top</a></p>
