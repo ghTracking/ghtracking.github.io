@@ -15,7 +15,7 @@
       <a href="LYP">Life on a Young Planet</a>
       <a href="AncientSeds">Ancient Sedimentary Environments</a>
       <a href="EarthMaterials">Earth Materials</a>
-      <a href="mechanisms">mechanisms1</a>
+      <a href="mechanisms">mechanisms</a>
     </div>
   </div> 
 </div>
