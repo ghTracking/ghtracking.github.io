@@ -33,22 +33,25 @@
    * Reread Earth Materials and note
 
 
-<button onclick="myFunction()">Click me</button>
 
-<button><img src="/mechanism_images/1,2.png"   /></button>
-<img class="show" src="/mechanism_images/1.png" align="left" position: relative;
-		top: 0;
-		left: 0;
-    
-<button><div style="background-image:"/mechanism_images/Arrow.png";"></button>
-      <div style="position: relative; left: 0; top: 0;">
-  		<img class="show" src="/mechanism_images/1.png">
-      </div>
-  </div>
+
+<button onclick="myFunction()">Click Me</button>
+<div id="myDIV">
+  This is my DIV element.
+</div>
+
+
+
+
+
 
 <script>
-var $show = $('.show').hide();
-$('button').on('click', function() {
-  $show.fadeToggle();
-});
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
 </script>
