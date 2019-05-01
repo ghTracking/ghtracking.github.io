@@ -45,7 +45,7 @@
   <img src="/mechanism_images/1.png" alt="Mountains" style="width:30%">
 </p>
 
-Test
+Test - changed width
 
 
 
