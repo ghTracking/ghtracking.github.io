@@ -52,9 +52,9 @@ Trying to add br
 <br>
 <br>
 <br>
-<hr>
 <br>
-<hr>
+<br>
+<br>
 <br>
 <hr>
 
