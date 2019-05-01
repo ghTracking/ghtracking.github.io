@@ -40,11 +40,11 @@
 		top: 0;
 		left: 0;
     
-<button><div style="background-image:url(YourBackgroundImage);"></button>
+<button><div style="background-image:"/mechanism_images/Arrow.png";"></button>
       <div style="position: relative; left: 0; top: 0;">
-  <img class="show" src="/mechanism_images/1.png">
-        </div>
-        </div>
+  		<img class="show" src="/mechanism_images/1.png">
+      </div>
+  </div>
 
 <script>
 var $show = $('.show').hide();
