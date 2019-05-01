@@ -34,11 +34,16 @@
 
 
 
-
-<button onclick="myFunction()">Click Me</button>
-<div id="myDIV" style="display:none;">
+<p float="left">
+  <img src="/mechanism_images/1,2.png" alt="Snow" style="width:30%">
+<div>
+<button onclick="myFunction()"><img src="/mechanism_images/Arrow.png" alt="Forest" style="width:30%" class="image"></button>
+<div id="1" style="display:none;">
   This is my DIV element.
 </div>
+</div>
+  <img src="/mechanism_images/1.png" alt="Mountains" style="width:30%">
+</p>
 
 Test
 
@@ -47,7 +52,7 @@ Test
 
 <script>
 function myFunction() {
-  var x = document.getElementById("myDIV");
+  var x = document.getElementById("1");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
