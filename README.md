@@ -40,10 +40,12 @@
       <div id="1" style="display:none;">
         Some new text
       </div>
+</p>
+<p float="right">
   <img src="/mechanism_images/1.png" alt="Mountains" style="width:30%">
 </p>
 
-Test - changed text
+Test - tried to align all in a 
 
 
 
