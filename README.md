@@ -38,7 +38,7 @@
   <img src="/mechanism_images/1,2.png" alt="Snow" style="width:30%">
   <arbutton onclick="myFunction()"><img src="/mechanism_images/Arrow.png" alt="Forest" style="width:30%" class="image"></arbutton>
       <div id="1" style="display:none;">
-        Align
+        Some new text
       </div>
   <img src="/mechanism_images/1.png" alt="Mountains" style="width:30%">
 </p>
