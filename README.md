@@ -32,7 +32,7 @@
    * Ensure diagramatic knowledge is secure
    * Reread Earth Materials and note
 
-
+Added vspace
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/1,2.png"></div>
@@ -42,6 +42,10 @@
       </div> </div>
   <div class ="baby"><img src="/mechanism_images/1.png"  ></div>
 </div>
+
+p {
+    padding-bottom: 3cm;
+}
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/2,4.png"></div>
