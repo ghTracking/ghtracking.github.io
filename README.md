@@ -36,12 +36,21 @@
 
 <button onclick="myFunction()">Click me</button>
 
-<p id="demo"></p>
-
-<p>A function is triggered when the button is clicked. The function outputs some text in a p element with id="demo".</p>
+<button><img src="/mechanism_images/1,2.png"   /></button>
+<img class="show" src="/mechanism_images/1.png" align="left" position: relative;
+		top: 0;
+		left: 0;
+    
+<button><div style="background-image:url(YourBackgroundImage);"></button>
+      <div style="position: relative; left: 0; top: 0;">
+  <img class="show" src="/mechanism_images/1.png">
+        </div>
+        </div>
 
 <script>
-function myFunction() {
-  document.getElementById("demo").innerHTML = "Hello World";
-}
+var $show = $('.show').hide();
+$('button').on('click', function() {
+  $show.fadeToggle();
+});
+
 </script>
