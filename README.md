@@ -53,6 +53,10 @@ Trying to add br
 <br>
 <br>
 <hr>
+<br>
+<hr>
+<br>
+<hr>
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/2,4.png"></div>
