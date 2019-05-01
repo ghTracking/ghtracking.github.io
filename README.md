@@ -44,7 +44,7 @@ Added vspace
 </div>
 
 p {
-    padding-bottom: 3cm;
+    padding-bottom: 20cm;
 }
 
 <div id="wide">
