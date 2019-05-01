@@ -34,18 +34,19 @@
 
 
 
-<p float="left">
-  <img src="/mechanism_images/1,2.png" alt="Snow" style="width:30%">
-  <arbutton onclick="myFunction()"><img src="/mechanism_images/Arrow.png" alt="Forest" style="width:30%" class="image"></arbutton>
+<div id="wide">
+  <div class ="baby">img src="/mechanism_images/1,2.png" alt="Snow" style="width:30%"</div>
+  <div class ="baby"> <arbutton onclick="myFunction()"><img src="/mechanism_images/Arrow.png" alt="Forest" style="width:30%" class="image"></arbutton>
       <div id="1" style="display:none;">
         Some new text
-      </div>
-</p>
-<p float="right">
-  <img src="/mechanism_images/1.png" alt="Mountains" style="width:30%">
-</p>
+      </div> </div>
+  <div class ="baby">img src="/mechanism_images/1.png" alt="Mountains" style="width:30%" </div>
+</div>
 
-Test - tried to align all in a 
+
+
+
+Test - tried to align all in a rowww
 
 
 
