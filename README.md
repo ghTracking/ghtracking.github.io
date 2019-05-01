@@ -33,3 +33,15 @@
    * Reread Earth Materials and note
    
   <a href="chemelem">Aims of final chem course</a>
+
+<button onclick="myFunction()">Click me</button>
+
+<p id="demo"></p>
+
+<p>A function is triggered when the button is clicked. The function outputs some text in a p element with id="demo".</p>
+
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Hello World";
+}
+</script>
