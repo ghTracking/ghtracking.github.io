@@ -44,11 +44,13 @@ Trying to add br
 </div>
 
 <br>
-<hr>
 <br>
-<hr>
 <br>
-<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <hr>
 
