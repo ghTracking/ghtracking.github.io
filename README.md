@@ -48,8 +48,7 @@
         </div>
 
 <script>
-var $show = $('.show').hide();
-$('button').on('click', function() {
-  $show.fadeToggle();
-});
+function myFunction() {
+    document.getElementById("demo").style.color = "red";
+}
 </script>
