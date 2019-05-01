@@ -44,11 +44,10 @@ Trying to add br
 </div>
 
 
-OkokLet's try to write a long line of textoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextooooooooooooooooooooooooooooooooooo
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/2,4.png"></div>
-  <div class ="baby"> <arbutton onclick="myFunction()2"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+  <div class ="baby"> <arbutton onclick="myFunction2()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="2" style="display:none;">
         Text2
       </div> </div>
