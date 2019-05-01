@@ -38,18 +38,25 @@ Trying to add br
   <div class ="baby"><img src="/mechanism_images/1,2.png"></div>
   <div class ="baby"> <arbutton onclick="myFunction1()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="1" style="display:none;">
-        text 1
+        Nucleophile, *
       </div> </div>
   <div class ="baby"><img src="/mechanism_images/1.png"  ></div>
 </div>
 
-
+<br>
+<hr>
+<br>
+<hr>
+<br>
+<hr>
+<br>
+<hr>
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/2,4.png"></div>
   <div class ="baby"> <arbutton onclick="myFunction2()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="2" style="display:none;">
-        Text2
+        NaH
       </div> </div>
   <div class ="baby"><img src="/mechanism_images/1,2.png"  ></div>
 </div>
