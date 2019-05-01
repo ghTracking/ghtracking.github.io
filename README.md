@@ -38,34 +38,23 @@ Trying to add br
   <div class ="baby"><img src="/mechanism_images/1,2.png"></div>
   <div class ="baby"> <arbutton onclick="myFunction()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="1" style="display:none;">
-        Some new text
+        text 1
       </div> </div>
   <div class ="baby"><img src="/mechanism_images/1.png"  ></div>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+OkokLet's try to write a long line of textoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextooooooooooooooooooooooooooooooooooo
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/2,4.png"></div>
   <div class ="baby"> <arbutton onclick="myFunction()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="2" style="display:none;">
-        Some new text
+        Text2
       </div> </div>
   <div class ="baby"><img src="/mechanism_images/1,2.png"  ></div>
 </div>
 
-Let's try to write a long line of textoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextoooooooooooooooooooooooooooooooooootextooooooooooooooooooooooooooooooooooo
 
 <script>
 function myFunction() {
