@@ -43,17 +43,7 @@
   <div class ="baby"><img src="/mechanism_images/1.png"  ></div>
 </div>
 
-<div id="wide">
-  <div class ="baby"><img src="/mechanism_images/2,4.png"></div>
-  <div class ="baby"> <arbutton onclick="myFunction()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
-      <div id="2" style="display:none;">
-        Some new text
-      </div> </div>
-  <div class ="baby"><img src="/mechanism_images/1,2.png"  ></div>
-</div>
-
-
-
+Without 2nd equation
 
 <script>
 function myFunction() {
