@@ -36,7 +36,7 @@ Trying to add br
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/1,2.png"></div>
-  <div class ="baby"> <arbutton onclick="myFunction()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+  <div class ="baby"> <arbutton onclick="myFunction1()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="1" style="display:none;">
         text 1
       </div> </div>
@@ -48,7 +48,7 @@ OkokLet's try to write a long line of textoooooooooooooooooooooooooooooooooootex
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/2,4.png"></div>
-  <div class ="baby"> <arbutton onclick="myFunction()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+  <div class ="baby"> <arbutton onclick="myFunction()2"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="2" style="display:none;">
         Text2
       </div> </div>
@@ -57,7 +57,7 @@ OkokLet's try to write a long line of textoooooooooooooooooooooooooooooooooootex
 
 
 <script>
-function myFunction() {
+function myFunction1() {
   var x = document.getElementById("1");
     if (x.style.display === "none") {
       x.style.display = "block";
@@ -68,7 +68,7 @@ function myFunction() {
 </script>
 
 <script>
-function myFunction() {
+function myFunction2() {
   var a = document.getElementById("2");
     if (a.style.display === "none") {
       a.style.display = "block";
