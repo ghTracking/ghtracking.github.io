@@ -31,8 +31,7 @@
    * Learn research papers for each topic
    * Ensure diagramatic knowledge is secure
    * Reread Earth Materials and note
-   
-  <a href="chemelem">Aims of final chem course</a>
+
 
 <button onclick="myFunction()">Click me</button>
 
