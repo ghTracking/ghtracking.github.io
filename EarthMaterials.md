@@ -129,7 +129,7 @@ Sidenote:
 Aside (pg. 227)<br>
 Transport laws:
   * Darcy's Law
-  <p>$J_x = K_H \frac{dh}{dx}$</p> Test
+  <p>$J_x = K_H \frac{dh}{dx}$</p> New test
   <img src="http://latex.codecogs.com/gif.latex?J_x=K_H\frac{dh}{dx}" border="0"/>
   <div lang="latex">1+sin(x)^2+3</div>
   * Fick's Law
