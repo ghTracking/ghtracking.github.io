@@ -126,6 +126,9 @@ Sidenote:
 * If muscovite is visible to the naked eye, the foliation becomes known as _schistosity_ and the rock is a schist.
 * If a rock contains quartz veins, it may have been situated above another metamorphic rock which has released its volatile contents.
 * By the Arrhenius equation, as the temperature increases beyond the feasible temperature for a prograde reaction, its rate increases exponentially. However, for a retrograde reaction, decreasing the temperature makes it slow significantly, meaning the species remain in a metastable state (also aided by the fact that dispelled fluids are no longer present.
+* Number of permitted minerals in assemblage dictated in accordance with Gibbs phase rule.
+* FACIES DIAGRAM
+* Greenschist : chlorite, actinolite (alumina-poor amphibole)
 * 
 
 
