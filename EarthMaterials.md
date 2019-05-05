@@ -16,12 +16,9 @@
     </div>
   </div> 
 </div>
-
-
+<head>
 <script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
-<script type="text/javascript">
-LatexIT.add('p',true);
-</script>
+</head>
 
 # Notes determined to be reasonably relevant for IA without too much additional detail
 
@@ -134,6 +131,7 @@ Transport laws:
   * Darcy's Law
   <p>$J_x = K_H \frac{dh}{dx}$</p> Test
   <img src="http://latex.codecogs.com/gif.latex?J_x=K_H\frac{dh}{dx}" border="0"/>
+  <div lang="latex">1+sin(x)^2+3</div>
   * Fick's Law
   * Fourier's Law
 
