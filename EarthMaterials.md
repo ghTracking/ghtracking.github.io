@@ -16,9 +16,7 @@
     </div>
   </div> 
 </div>
-<head>
-<script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
-</head>
+
 
 # Notes determined to be reasonably relevant for IA without too much additional detail
 
@@ -55,6 +53,8 @@ Ephemeral - lasting for a very short time (e.g. river)
 
 ### How do igneous rocks form?
 
+Sidenote: charactertistic cooling time:
+<img src="http://latex.codecogs.com/gif.latex?t_c=\frac{d^2}{\pi^2\kappa}" border="0"/>
 
 
 ### Igneous rocks: Their mode of occurrence, classification and tectonic seeting 
@@ -125,6 +125,9 @@ Sidenote:
 * Clay minerals react to form muscovite as one of the first actions to form a metamorphic rock.
 * If muscovite is visible to the naked eye, the foliation becomes known as _schistosity_ and the rock is a schist.
 * If a rock contains quartz veins, it may have been situated above another metamorphic rock which has released its volatile contents.
+* By the Arrhenius equation, as the temperature increases beyond the feasible temperature for a prograde reaction, its rate increases exponentially. However, for a retrograde reaction, decreasing the temperature makes it slow significantly, meaning the species remain in a metastable state (also aided by the fact that dispelled fluids are no longer present.
+* 
+
 
 Aside (pg. 227)<br>
 Transport laws:
