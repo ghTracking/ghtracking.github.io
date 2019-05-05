@@ -128,8 +128,40 @@ Sidenote:
 * By the Arrhenius equation, as the temperature increases beyond the feasible temperature for a prograde reaction, its rate increases exponentially. However, for a retrograde reaction, decreasing the temperature makes it slow significantly, meaning the species remain in a metastable state (also aided by the fact that dispelled fluids are no longer present.
 * Number of permitted minerals in assemblage dictated in accordance with Gibbs phase rule.
 * FACIES DIAGRAM
-* Greenschist : chlorite, actinolite (alumina-poor amphibole)
-* 
+* Greenschist : chlorite, actinolite (alumina-poor amphibole). Plagioclase restricted to albitic compositions as calcitic variations form epidote
+* Recrystallisation occurs during metamorphism to release energy stored through unfavourable configurations such as twinning or strain.
+* The crystalloblastic series may be inferred to determine the level of surface free energy and the likelihood of a mineral forming on the surface of another, given necessary conditions. The surface free energy of quartz is particularly low.
+* Contact metamorphic rocks are difficult to break as they possess no distinct foliation. Grains are often present at 120 degrees to minimse the extent of free surface energy.
+
+* The presence of a reflective sheen and some foliation, but with minerals not large enough to be seen, is termed a _phyllite_. 
+* A gneiss typically contains foliations, without micaceous or platy minerals present. 
+* Sheaf-like structures of amphibole may form in schists.
+* Migmatite formation: 
+  * At high temperatures, temperature remains constant due to large latent heat of fusion of the rock. 
+  * Solidus of water-saturated granite is first point of melting, in middle of amphibolite facies
+  * Melt absorbs all water from environment
+  * Low volume of melt, therefore formation of pegmatite
+  * As temperatures continue to rise towards the granulite facies and the melting temperature of water-undersaturated granite, hornblende reacts to form pyroxene and water. Consequently, a large-scale release of water permits significant melting to occur. This results in the formation of migmatites.
+
+Geothermometer of garnet and biotite: GARB
+Geobarometer of garnet, rutile, Al<sub>2</sub>SiO<sub>5</sub>, ilmenite and quartz: GRAIL (almost indepedent of temperature)
+
+Pressure-Temperature-time graph moves in circle as isostatic adjustment occurs to bring a rock to the surface following erosion of the overlying orogenic belt.
+
+Subduction zone - geothermal gradient creates rocks within blueschist facies; greater subduction leads to eclogite. Rose back due surface due to low density (large pressure change, minimal temperature change; mainly blueschist to eclogite {and back!})
+  * Cold oceanic crust subducts faster than temperature can flow. Hence, pressure increases for little temperature change. Aragonite is the stable form of calcite for these facies.
+  
+  # ARAGONITE DIAGRAM!
+
+Continental crust of convergent plate boundaries - thickened crust higher temperature due to concentration of radioactive materials, as well as intrusions of fluids and magmas. Pressure also heightened as a consequence of intense folding. Rise of pressure rapidly from formation of nappes and thrust faults,but subsequent temperature increase. (mainly amphibolite to greenschist)
+  * Anti-clocwise paths may also form, depending on the surrounding deformation in the environment.
+    Acadian orogeny similar to action within Central Massachusetts.
+    
+LP/HT paths caused by magma intrusions or results of delamination (base of crust will sink to higher T). 
+
+<details><summary>Paper which suggested that blueschist facies become more scarce with age.:</summary>
+     <span style="color:#8b0000;font-weight:bold">Miyashiro (1961) - possibly related to thickening of lithosphere and cooling of planet.</span>
+</details>
 
 
 Aside (pg. 227)<br>
@@ -158,3 +190,12 @@ Transport laws:
 
 
 ### Earth materials and human health
+
+
+
+
+
+
+
+
+
