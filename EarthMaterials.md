@@ -18,6 +18,11 @@
 </div>
 
 
+<script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
+<script type="text/javascript">
+LatexIT.add('p',true);
+</script>
+
 # Notes determined to be reasonably relevant for IA without too much additional detail
 
 Poikilotopic - larger grain enclosing a smaller grain
@@ -104,9 +109,32 @@ Ephemeral - lasting for a very short timE (e.g. river)
   * Bituminous
   * Anthracite
   * Cannel coal - conchoidal fracture, greasy, more like oil shale
-  * The low density of halite in relation to overlying rocks means that it forms a Rayleigh-Taylor instability and rises through the surrounding layers as domes.
+* The low density of halite in relation to overlying rocks means that it forms a Rayleigh-Taylor instability and rises through the surrounding layers as domes.
+* Evaporite deposits present in Mediterranean as it was isolated from sources of water in the Late Miocene.
 
 ### Metamorphic rock-forming minerals
+
+Sidenote: 
+* Lineation: causing by extension/stretching
+* Foliation: caused by compression/flattening
+
+* Changes that take place when a rock is heating: _prograde_
+* Changes that take place during cooling: _retrograde_
+* When metamorphic rocks melt and combine with igneous rocks, they form a migmatite.
+* If the bulk composition of a rock is changed by fluids passing through it, the process is known as _metasomatism_.
+* Thermal aureoles around igneous bodies : _contact metamorphism_.
+* Metamorphism that occurs on a regional scale (such as at a convergent plate boundary) is known as _regional metamorphism_.
+
+* Clay minerals react to form muscovite as one of the first actions to form a metamorphic rock.
+* If muscovite is visible to the naked eye, the foliation becomes known as _schistosity_ and the rock is a schist.
+* If a rock contains quartz veins, it may have been situated above another metamorphic rock which has released its volatile contents.
+
+Aside (pg. 227)<br>
+Transport laws:
+  * Darcy's Law
+  $J_x = K_H \frac{dh}{dx}$
+  * Fick's Law
+  * Fourier's Law
 
 
 
