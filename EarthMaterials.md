@@ -132,7 +132,7 @@ Sidenote:
 Aside (pg. 227)<br>
 Transport laws:
   * Darcy's Law
-  $J_x = K_H \frac{dh}{dx}$
+  <p>$J_x = K_H \frac{dh}{dx}$</p> Test
   * Fick's Law
   * Fourier's Law
 
