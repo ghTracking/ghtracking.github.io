@@ -25,8 +25,8 @@ LatexIT.add('p',true);
 
 # Notes determined to be reasonably relevant for IA without too much additional detail
 
-Poikilotopic - larger grain enclosing a smaller grain
-Ephemeral - lasting for a very short timE (e.g. river)
+Poikilotopic - larger grain enclosing a smaller grain <br>
+Ephemeral - lasting for a very short time (e.g. river)
 
 ### Introduction
 
