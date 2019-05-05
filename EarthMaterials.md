@@ -133,6 +133,7 @@ Aside (pg. 227)<br>
 Transport laws:
   * Darcy's Law
   <p>$J_x = K_H \frac{dh}{dx}$</p> Test
+  <img src="http://latex.codecogs.com/gif.latex?J_x=K_H\frac{dh}{dx}" border="0"/>
   * Fick's Law
   * Fourier's Law
 
