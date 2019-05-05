@@ -129,11 +129,14 @@ Sidenote:
 Aside (pg. 227)<br>
 Transport laws:
   * Darcy's Law
-  <p>$J_x = K_H \frac{dh}{dx}$</p> New test
-  <img src="http://latex.codecogs.com/gif.latex?J_x=K_H\frac{dh}{dx}" border="0"/>
-  <div lang="latex">1+sin(x)^2+3</div>
+  <img src="http://latex.codecogs.com/gif.latex?J_x=-K_H\frac{dh}{dx}" border="0"/>
+  K_H is hydraulic conductivity
   * Fick's Law
+  <img src="http://latex.codecogs.com/gif.latex?J_x=-D\frac{dc}{dx}" border="0"/>
+  D is diffusion coefficient; c is concentration of diffusing species
   * Fourier's Law
+  <img src="http://latex.codecogs.com/gif.latex?J_x=-K_T\frac{dT}{dx}" border="0"/>  
+  K_T is thermal conductivity
 
 
 
