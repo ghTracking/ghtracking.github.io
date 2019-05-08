@@ -327,7 +327,7 @@ Trying to add br
   <div class ="baby"><img src="/mechanism_images/11,3,4,6,12,15.png"></div>
   <div class ="baby"> <arbutton onclick="myFunction12()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="12" style="display:none;">
-        H<sub>2</sub>
+        H<sub>2</sub>, Pd cat
       </div> </div>
   <div class ="baby"><img src="/mechanism_images/12.png"></div>
 </div>
@@ -427,7 +427,186 @@ Trying to add br
 <br>
 <br>
 <hr>
+<div id="wide">
+  <div class ="baby"><img src="/mechanism_images/16,21,24,23,22.png"></div>
+  <div class ="baby"> <arbutton onclick="myFunction16()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+      <div id="16" style="display:none;">
+        i) Excess R<sub>2</sub>MgBr ii) H<sub>2</sub>O
+      </div> </div>
+  <div class ="baby"><img src="/mechanism_images/20,16.png"></div>
+</div>
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+<div id="wide">
+  <div class ="baby"><img src="/mechanism_images/33, 42, 23, 17.png"></div>
+  <div class ="baby"> <arbutton onclick="myFunction17()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+      <div id="17" style="display:none;">
+        TsCl, Pyridine
+      </div> </div>
+  <div class ="baby"><img src="/mechanism_images/17,13,7.png"></div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+<div id="wide">
+  <div class ="baby"><img src="/mechanism_images/18,19,10,15.png"></div>
+  <div class ="baby"> <arbutton onclick="myFunction18()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+      <div id="18" style="display:none;">
+        NaH
+      </div> </div>
+  <div class ="baby"><img src="/mechanism_images/18.png"></div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
 
 
 
@@ -995,6 +1174,6 @@ function myFunction50() {
 </script>
 
 
-https://repl.it/repls/GlossyProperFrontend
+[//]: # https://repl.it/repls/GlossyProperFrontend 
 
 
