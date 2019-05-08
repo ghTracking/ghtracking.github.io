@@ -85,6 +85,33 @@ Trying to add br
 <hr>
 
 
+<div id="wide">
+  <div class ="baby"><img src="/mechanism_images/11,3,4,6,12,15.png"></div>
+  <div class ="baby"> <arbutton onclick="myFunction2()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+      <div id="2" style="display:none;">
+        Br<sub>2</sub>
+      </div> </div>
+  <div class ="baby"><img src="/mechanism_images/1,2,3.png"  ></div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+
 
 
 
