@@ -87,7 +87,7 @@ Trying to add br
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/11,3,4,6,12,15.png"></div>
-  <div class ="baby"> <arbutton onclick="myFunction2()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+  <div class ="baby"> <arbutton onclick="myFunction3()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="3" style="display:none;">
         m-CPBA
       </div> </div>
@@ -113,7 +113,7 @@ Trying to add br
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/11,3,4,6,12,15.png"></div>
-  <div class ="baby"> <arbutton onclick="myFunction2()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+  <div class ="baby"> <arbutton onclick="myFunction4()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="4" style="display:none;">
         Br<sub>2</sub>
       </div> </div>
@@ -139,7 +139,7 @@ Trying to add br
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/11,3,4,6,12,15.png"></div>
-  <div class ="baby"> <arbutton onclick="myFunction2()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+  <div class ="baby"> <arbutton onclick="myFunction5()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="5" style="display:none;">
         Br<sub>2</sub>, THF
       </div> </div>
@@ -165,7 +165,7 @@ Trying to add br
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/11,3,4,6,12,15.png"></div>
-  <div class ="baby"> <arbutton onclick="myFunction2()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+  <div class ="baby"> <arbutton onclick="myFunction6()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="6" style="display:none;">
         i) BH<sub>3</sub>, THF ii) H<sub>2</sub>O<sub>2</sub>, NaOH, H<sub>2</sub>O
       </div> </div>
@@ -192,7 +192,7 @@ Trying to add br
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/17,13,7.png"></div>
-  <div class ="baby"> <arbutton onclick="myFunction2()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+  <div class ="baby"> <arbutton onclick="myFunction7()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="7" style="display:none;">
         <sup>t</sup>BuOK, EtOH
       </div> </div>
@@ -220,7 +220,7 @@ Trying to add br
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/26,25,8,14.png"></div>
-  <div class ="baby"> <arbutton onclick="myFunction2()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+  <div class ="baby"> <arbutton onclick="myFunction8()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="8" style="display:none;">
         <sup>t</sup>BuOK, EtOH
       </div> </div>
@@ -247,7 +247,7 @@ Trying to add br
 
 <div id="wide">
   <div class ="baby"><img src="/mechanism_images/9,10,11.png"></div>
-  <div class ="baby"> <arbutton onclick="myFunction2()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+  <div class ="baby"> <arbutton onclick="myFunction9()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
       <div id="9" style="display:none;">
         R<sub>4</sub>OH, pyridine
       </div> </div>
@@ -272,12 +272,12 @@ Trying to add br
 <hr>
 
 <div id="wide">
-  <div class ="baby"><img src="/mechanism_images/9,10,11.png"></div>
-  <div class ="baby"> <arbutton onclick="myFunction2()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
-      <div id="9" style="display:none;">
-        R<sub>4</sub>OH, pyridine
+  <div class ="baby"><img src="/mechanism_images/18,19,10,15.png"></div>
+  <div class ="baby"> <arbutton onclick="myFunction10()"><img src="/mechanism_images/Rarrow.png"  class="image"></arbutton>
+      <div id="10" style="display:none;">
+        Forward: HBr (conc), reflux; Reverse: H<sub>2</sub>O, pyridine
       </div> </div>
-  <div class ="baby"><img src="/mechanism_images/9.png"></div>
+  <div class ="baby"><img src="/mechanism_images/9,10,11.png"></div>
 </div>
 
 <br>
@@ -297,6 +297,14 @@ Trying to add br
 <br>
 <hr>
 
+<div id="wide">
+  <div class ="baby"><img src="/mechanism_images/9,10,11.png"></div>
+  <div class ="baby"> <arbutton onclick="myFunction11()"><img src="/mechanism_images/Rarrow.png"  class="image"></arbutton>
+      <div id="11" style="display:none;">
+        Forward: <sup>t</sup>BuOK, EtOH; Reverse: HBr (conc)
+      </div> </div>
+  <div class ="baby"><img src="/mechanism_images/11,3,4,6,12,15.png"></div>
+</div>
 
 <br>
 <br>
@@ -315,6 +323,14 @@ Trying to add br
 <br>
 <hr>
 
+<div id="wide">
+  <div class ="baby"><img src="/mechanism_images/11,3,4,6,12,15.png"></div>
+  <div class ="baby"> <arbutton onclick="myFunction12()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+      <div id="12" style="display:none;">
+        H<sub>2</sub>
+      </div> </div>
+  <div class ="baby"><img src="/mechanism_images/12.png"></div>
+</div>
 
 <br>
 <br>
@@ -333,23 +349,14 @@ Trying to add br
 <br>
 <hr>
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br> 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
+<div id="wide">
+  <div class ="baby"><img src="/mechanism_images/17,13,7.png"></div>
+  <div class ="baby"> <arbutton onclick="myFunction13()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+      <div id="13" style="display:none;">
+        * (Nucleophile) in DMSO/ DMF (polar, aprotic for S<sub>N</sub>2
+      </div> </div>
+  <div class ="baby"><img src="/mechanism_images/14,13.png"></div>
+</div>
 
 
 <br>
@@ -369,6 +376,40 @@ Trying to add br
 <br>
 <hr>
 
+<div id="wide">
+  <div class ="baby"><img src="/mechanism_images/26,25,8,14.png"></div>
+  <div class ="baby"> <arbutton onclick="myFunction14()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+      <div id="14" style="display:none;">
+        * (Nucleophile) in DMSO/ DMF (polar, aprotic for S<sub>N</sub>2
+      </div> </div>
+  <div class ="baby"><img src="/mechanism_images/14,13.png"></div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+
+<div id="wide">
+  <div class ="baby"><img src="/mechanism_images/11,3,4,6,12,15.png"></div>
+  <div class ="baby"> <arbutton onclick="myFunction15()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+      <div id="15" style="display:none;">
+        H<sub>2</sub>SO<sub>4</sub> (dil)
+      </div> </div>
+  <div class ="baby"><img src="/mechanism_images/18,19,10,15.png"></div>
+</div>
 
 <br>
 <br>
