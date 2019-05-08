@@ -245,6 +245,14 @@ Trying to add br
 <hr>
 
 
+<div id="wide">
+  <div class ="baby"><img src="/mechanism_images/9,10,11.png"></div>
+  <div class ="baby"> <arbutton onclick="myFunction2()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+      <div id="9" style="display:none;">
+        R<sub>4</sub>OH, pyridine
+      </div> </div>
+  <div class ="baby"><img src="/mechanism_images/9.png"></div>
+</div>
 
 <br>
 <br>
@@ -263,6 +271,14 @@ Trying to add br
 <br>
 <hr>
 
+<div id="wide">
+  <div class ="baby"><img src="/mechanism_images/9,10,11.png"></div>
+  <div class ="baby"> <arbutton onclick="myFunction2()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+      <div id="9" style="display:none;">
+        R<sub>4</sub>OH, pyridine
+      </div> </div>
+  <div class ="baby"><img src="/mechanism_images/9.png"></div>
+</div>
 
 <br>
 <br>
