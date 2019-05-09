@@ -31,6 +31,8 @@
    * Learn research papers for each topic
    * Ensure diagramatic knowledge is secure
    * Reread Earth Materials and note
+   
+   http://www.blackwellpublishing.com/paleobiology/figure.asp?chap=13&fig=Fig13-8&img=c13f008 
 
 Trying to add br
 
