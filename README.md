@@ -508,6 +508,17 @@ Trying to add br
 <br>
 <hr>
 
+
+<div id="wide">
+  <div class ="baby"><img src="/mechanism_images/19,37,38,48,20.png"></div>
+  <div class ="baby"> <arbutton onclick="myFunction19()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+      <div id="19" style="display:none;">
+        i) R<sub>3</sub>MgBr ii) H<sub>2</sub>O
+      </div> </div>
+  <div class ="baby"><img src="/mechanism_images/18,19,10,15.png"></div>
+</div>
+
+
 <br>
 <br>
 <br>
@@ -524,6 +535,15 @@ Trying to add br
 <br>
 <br>
 <hr>
+
+<div id="wide">
+  <div class ="baby"><img src="/mechanism_images/19,37,38,48,20.png"></div>
+  <div class ="baby"> <arbutton onclick="myFunction20()"><img src="/mechanism_images/Arrow.png"  class="image"></arbutton>
+      <div id="20" style="display:none;">
+        i) Excess R<sub>2</sub>MgBr ii) H<sub>2</sub>O
+      </div> </div>
+  <div class ="baby"><img src="/mechanism_images/20,16.png"></div>
+</div>
 
 <br>
 <br>
