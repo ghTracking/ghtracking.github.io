@@ -442,6 +442,10 @@ At a
 * *Why is it possible that more soft-bodied organisms existed in the Proterozoic eon?*
 * *What are stromatolites?*
 * *Illustrate the process of stromatolite formation.*
+* Key: apparent parsimony of cyanobacterial evolution prior to the 'snowball Earth'
+* Huronian glaciation
+* Kopp et al (2005): cyanobacterial growth models from expected ocean flux of crucial elements such as carbon and iron have suggested that a hegemony of these organisms may have removed a significant amount of methane from the atmosphere. The loss of this greenhouse gas and the rise of oxygen would have permitted temperatures to plummet, leading to the stages of Huronian glaciation and the subsequent 'snowball Earth'. 
+  * Perhaps there was an emergence of oxygenic photosynthesisers, before their presence resulted in the aforementioned glaciation. Following the melting of glaciers, influx of sediments essential to life into the oceans may have caused a subsequent cyanobacterial explosion and the capacity for development and evolution of life. It is likely to be no coincidence that the Sturtian and Marinoan glaciations of the Cryogenian directly predate the emergence of Ediacaran biota such as Dickinsonia.
 
 ## 27. Classification schemes and the Cambrian explosion<a name="27"></a>
 [Back to top](#top)
