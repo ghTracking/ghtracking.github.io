@@ -61,7 +61,7 @@ Rocks from Akilia Island show fractionation of carbon isotopes. However, this ev
 
 ## Chapter 6 The Oxygen Revolution
 <p><a href="#top">Back to top</a></p>
-* The 2 billion-year-old Gunflint Formation holds fossil evidence of bacterial life forms in chert. These lived in an iron-rich marine environment
+* The 2 billion-year-old Gunflint Formation holds fossil evidence of bacterial life forms in chert. These lived in an iron-rich marine environment<br>
 * Biomarker evidence has been discovered in shales in proximity to North Pole, northwestern Australia. The presence of 2-methylhopane highlights evidence for biological processes and more importantly, dated Archean origins of cyanobacteria. Similarly, steranes also exist within these rocks, suggesting that they once formed constituents of membrane-stiffening compounds. 
 
 Banded Iron Formations persisted until around 1.8 Ga; red beds appeared 2.2 Ga. The occurrence of pyrite, siderite and uraninite is only found prominently in rocks older than 2.2 Ga.
