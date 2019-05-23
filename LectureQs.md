@@ -463,6 +463,8 @@ Evidence supports idea of punctuated equilibrium*
 
 ## 48. Arran Field Course<a name="48"></a>
 [Back to top](#top)
+* Provide regional context to the geological area around Arran. Refer to the Midland Valley of Scotland.
+
 
 ## 49. The foundations of Britain and Ireland: basement terranes<a name="49"></a>
 [Back to top](#top)
@@ -477,6 +479,8 @@ Evidence supports idea of punctuated equilibrium*
 
 ## 50. Britain and Ireland through geological history<a name="50"></a>
 [Back to top](#top)
+
+* *
 
 ## 51. Closing the Iapetus Ocean: orogeny in action<a name="51"></a>
 [Back to top](#top)
