@@ -523,6 +523,32 @@ Evidence supports idea of punctuated equilibrium*
 
 ## 48. Arran Field Course<a name="48"></a>
 [Back to top](#top)
+* Midland Valley of Scotland:
+  * Primarily Upper-Paleozoic and undeformed
+  * No sediments of Middle-Devonian known
+  * Carboniferous: change to humid, equatorial conditions (Old Red Sandstone)
+  * Permian sandstones generally youngest (New Red Sandstone), but Triassic strata also found on Arran and Firth of Clyde.
+  * Upper Coal Measures: fluviodeltaic, reflecting climatic change in Carboniferous to arid conditions
+  * Tertiary dolerite dykes with NW-SE trend
+  * Alkali-dolerite sills near Prestwick-Mauchline
+    * On Mull, regional swarm dykes are tholeiitic
+    * Fossil coleoptera (beetles) used as proxies for climatic changes in glaciation periods (Coope 1971)
+  * Vegetation colonised surface at end of Devensian due to climatic amelioration and subsequent retreat of ice sheet
+  * Raised coastlines are characteristic due to eustatic changes due to ice sheet formation; isostatic uplift followed melting.
+  
+* Tertiary volcanic districts
+  * Intense igneous activity towards beginning of Tertiary
+  * Denudation and planation has exposed plutonic features
+  * Presence of epidote and quartz veins indicates vapour action
+  * Schists almost completely surround the granitic Northern region
+  * *Quartz dolerite-suite* <br>
+    * Drumadoon Point
+    * Bennan Head
+    * Kilpatrick Point
+  * Southern faults of the Northern granite may be a part of the Highland Boundary Fault.
+    * Reminder: Harte (1984) sugested that the HBC could not easily be brought into contact with the underlying Nappes of the Dalradian successions. Periodic uplift in combination with a strike-slip regime could have possibly taken place in the late Ordovician.
+  
+  
 
 ## 49. The foundations of Britain and Ireland: basement terranes<a name="49"></a>
 [Back to top](#top)
