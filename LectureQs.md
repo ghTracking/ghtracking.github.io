@@ -197,7 +197,7 @@
      
 </details>
 <details><summary>Paper which suggested that glacial cycles have varied over the history of the Earth:</summary>
-     <span style="color:#8b0000;font-weight:bold">Berger (1993)</span>
+     <span style="color:#8b0000;font-weight:bold">Berger (1988)</span>
 </details>
 
 
