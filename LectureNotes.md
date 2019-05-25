@@ -508,6 +508,23 @@ Evidence supports idea of punctuated equilibrium*
 ## 43. Overview of the modern climate system<a name="43"></a>
 [Back to top](#top)
 
+* Summary of energy budget data: Trenberth (2004)
+* Global energy flow diagram
+* Radiative and surface flux data: CERES groups - but this satellite data also features top of atmosphere (TOA) discrepancies and imbalances
+* More data: Earth Radiation Budget Experiment (ERBE)
+* Could invoke ideas of Lovelock: net radiation appears to be almost at a balance. Perhaps the idea of a self-regulating, autopoietic system extends from microscopic observations to large scale analyses. "Optimising" vs "influential" Gaia.
+  * Has now evolved into field of Earth Science which aims to source the nature of homeostasis mechanisms of the Earth. e.g. evidence of Zeebe and Caldeira (2008) regarding the nature of biological rock weathering to influence climate.
+  * At greater than 20 degrees latitude, the atmosphere is the dominant factor in transport of heat away from the equator. Close to the equator, ocean circulation plays a greater role. 
+  * The Intertropical Convergence Zone (ITCZ) forms the ascending limb of the Hadley cell. Further cells exist at latitudes at a greater distance from the equator. Namely, these are the Ferrel and Polar cells.
+  * Complexity in understanding of jet streams and general circulation as a conseqiuence of factors such as frontogenesis.
+  * Clockwise gyres in the Northern hemisphere and anticlockwise gyres in the Southern hemisphere arise as a consequence of the forces from winds due to the Coriolis force.
+
+<details><summary>Paper which supports aspects of the Gaia hypothesis with regard to biological action in climate regulation.</summary>
+     <span style="color:#8b0000;font-weight:bold">Zeebe and Caldeira (2008)</span>
+ </details>
+ 
+ <span style="color:#8b0000;font-weight:bold">Energy budgets between planets?</span>
+
 ## 44. Climate change: forcing and feedback<a name="44"></a>
 [Back to top](#top)
 
