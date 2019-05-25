@@ -34,3 +34,11 @@ p. 233 the 2+ valence state that Europium is capable of forming means that it ca
 p. 240 The limited pressure stability of anorthite means that Earth would not have been capable of forming a thick anorthisitic crust, unlike the moon.
 
 p. 247 A late, heavy bombardment occured 800 Ma after the formation of the Earth. This is the age of the oldest rocks on Earth, suggesting it was the beginning of a period of stability.
+
+Still to do:
+362, 369
+Skim ch. 13,14,16
+534
+Skim ch. 18,20,21
+(pg. 195)
+
