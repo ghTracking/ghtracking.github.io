@@ -528,8 +528,13 @@ Evidence supports idea of punctuated equilibrium*
 ## 44. Climate change: forcing and feedback<a name="44"></a>
 [Back to top](#top)
 
+* Next IPCC report due in 2021
+* New models published in April 2019 show the climate running hotter than previously, reaching equilibrium sensitivities of 5<sup>o</sup>C. However, groups such as the National Center for Atmospheric research are also doubtful of findings, believing that clouds and aerosols may be responsible for the source of uncertainty.
+
 ## 45. Global carbon cycle and geologic history of CO<sub>2</sub> variation <a name="45"></a>
 [Back to top](#top)
+
+* CO<sub>2</sub> at ~410ppm
 
 * Major sinks of evolved CO<sub>2</sub> are the land (7 billion tons) and the ocean (11 billion tons).
 ## 46. Cenozoic and quaternary climate history<a name="46"></a>
