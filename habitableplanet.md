@@ -12,7 +12,7 @@ p. 129 Solar system formation: <br>
     * The nature of these winds was investigated by Lizano et al (1988)
 
 p. 164 <sup>26</sup>Al : half life of 0.73 million years. Hence, sensitive within first 10 million years following its formation. Its presence would indicate that a supernova event must have occured with 5-10Ma of the rock's formation. 
-  Wasserburg (1976) used the Allende meteorite to show that the <sup>26</sup>Mg.
+  Wasserburg (1976) used the Allende meteorite to show that the <sup>26</sup>Mg was higher in the sample than in other Earth rocks.
   
   If a rock features a high amount of aluminium and a low amount of magnesium, it would be an important candidate for investigation. The initial aluminium would have been both 26 and 24 forms, meaning that <sup>26</sup>Mg would have formed.
   Controversy arose over the interpretation of results. Nevertheless, there was a general consensus that the solar system must have formed from a huge cloud of interstellar gas
