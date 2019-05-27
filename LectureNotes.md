@@ -382,7 +382,10 @@ At a
 ## 18. Destruction of oceanic crust <a name="18"></a>
 [Back to top](#top)
 
-* 
+* Salt-dome diapirs
+  * Suggestion that granite batholiths do not form in the same way as a result of an inconsistent heat budget?
+* Subduction of Pacific plate under Marianas Trench causes back-arc spreading. 
+* Batholith: Sierra Nevada Mountains
 
 ## 19. Continental collisions: Introduction to metamorphic rocks <a name="19"></a>
 [Back to top](#top)
