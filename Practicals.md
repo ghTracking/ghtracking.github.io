@@ -62,11 +62,11 @@ Aeolian
   <tr>
     <td class="tg-0pky">Bivalve</td>
     <td class="tg-0pky"></td>
+    <td class="tg-0pky">Initially marine, shallow burrowers. Freshwater migration, epifaunal activity and burrowing emerged later. Response to 'Cambrian substrate revolution' and end-Permian mass extinction.</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Depositional environment; biostratigraphy</td>
+    <td class="tg-0pky">Depositional environment; biostratigraphy. Non-marine species have been used to zone the Upper Carboniferous.</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -78,7 +78,7 @@ Aeolian
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Primarily pedunculate forms</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -97,6 +97,17 @@ Aeolian
     <td class="tg-0pky">(Epifaunal)</td>
     <td class="tg-0pky">Sessile, suspension feeders</td>
     <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+   <tr>
+    <td class="tg-0pky">Echinoid</td>
+    <td class="tg-0pky">Regular - epifaunal; irregular: infaunal. Shallow marine. Divergence occurred during Jurassic</td>
+    <td class="tg-0pky">Deposit feeder</td>
+    <td class="tg-0pky">Rigid, robust exoskeleton of mesodermal calcite plates</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -176,9 +187,9 @@ Aeolian
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
+    <td class="tg-0lax">Index fossil</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Jurassic/Cretaceous</td>
   </tr>
   <tr>
     <td class="tg-0lax">Goniatite</td>
@@ -187,9 +198,9 @@ Aeolian
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
+    <td class="tg-0lax">Index fossil</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Devonian to Permian</td>
   </tr>
   <tr>
     <td class="tg-0lax">Ceratite</td>
@@ -198,8 +209,30 @@ Aeolian
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
+    <td class="tg-0lax">Index fossil</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Existed in Triassic</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gastropod</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+    <tr>
+    <td class="tg-0lax">Graptolite</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Scleroproteinaceous (organic) skeleton</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Graptoloidea (order) planktic; dendroidea (order) benthic</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Reduced number of stipes over time. Transition from pendant, to straight, to scandent.</td>
   </tr>
 </table>
