@@ -361,6 +361,24 @@ At a
 ## 17. Formation of oceanic crust<a name="17"></a>
 [Back to top](#top)
 
+* Erta-Ale: volcano in Ethiopia
+* Oldoinyo Lengai: world's only carbonatite volcano
+* Ballantrae Coast, Arran - pillow basalts
+* Chert must be a deep sea sediment, as it is too far from contients to have sand and mud
+* Processes at a ridge:
+  * Small-scale extensional faulting
+  * Shallow, small earthquakes
+  * Hydrothermal circulation of seawater in fractured crust
+    * Effectiveness means that subsidence is faster than by convection alone
+  * H<sub>2</sub>O strips elements Mn, Cu
+  * Intense hydrothermal alteration
+    * Formation of minerals such as epidote
+  * SEE LECTURE NOTE DIAGRAMS
+* Tivey (2007): 
+  * East Pacific Rise system features 5-10m black smokers - low accumulation of mineral mass at each site due to circulation
+  * Endeavour vents of Juan de Fuca ridge has 10-20m structures - greater trapping of fluid by impermeable sections of silica  
+  * Trans Atlantic Geotransverse is several hundred m wide - vigourous venting and entrainment of seawater (forms anhydrite, pyrite, chalcopyrite). Analog to Cyprus sulfide deposit.
+
 ## 18. Destruction of oceanic crust <a name="18"></a>
 [Back to top](#top)
 
@@ -638,6 +656,8 @@ Evidence supports idea of punctuated equilibrium*
 
 ## 54. Planetary life cycles - the birth and death of planets<a name="54"></a>
 [Back to top](#top)
+
+* January 2019: NASA report findings of fragment of Hadean Earth on Moon (importantly containing zircon with chemical evidence that it must have formed in a much more oxic environment).
 
 ## 55. Discovering other worlds - an exoplanet menagerie<a name="55"></a>
 [Back to top](#top)
