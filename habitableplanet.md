@@ -35,10 +35,12 @@ p. 240 The limited pressure stability of anorthite means that Earth would not ha
 
 p. 247 A late, heavy bombardment occured 800 Ma after the formation of the Earth. This is the age of the oldest rocks on Earth, suggesting it was the beginning of a period of stability.
 
-Still to do:
-362, 369
-Skim ch. 13,14,16
-534
-Skim ch. 18,20,21
-(pg. 195)
+
+p. 377 The presence of <sup>10</sup>Be in convergent margin magmas indicates that sediment must compose some of the material. This is due to the fact that it is only identifiably present in rock less than 10Myr old due to its nature of decay.
+
+CH. 13
+p. 403 reminder: 3.45 Ga Warrawoona Supergroup stromatolites
+                 Javaux (2010) carbonaeous microstructures from sandstones and shales interpreted to be eukaryotic microfossils, 3.2 Ga.
+
+Take some information about climate and habitability from final chapters.
 
