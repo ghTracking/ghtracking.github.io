@@ -93,7 +93,7 @@ Wright (1932) - adaptive landscape: cyanobacterial stasis arises as a consequenc
    * Unable to explain full eukaryotic structure
    
 * Some mitochrondrial genes preserved in genetic vestiges of parasites
- <details><summary>Paper which suggested that all embryotes possesed mitochondria, as they were prokaryotic symbiotes:</summary>
+ <details><summary>Paper which suggested that all eukaryotes possesed mitochondria, as they were prokaryotic symbiotes:</summary>
      <span style="color:#8b0000;font-weight:bold">Martin and Müller (1998)</span>
 </details>
 
