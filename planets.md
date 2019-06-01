@@ -10,6 +10,7 @@ Bromiley 2018
   - percolation and timescale for planetary differentiation: no need for magma oceans? Yet, must also reconcile with predicts of noble gas models and isotopic ratios of light elements such as helium, as noted by...
 Ballentine 2002
   - insight into noble gas ratios within the mantle and predictions of atmospheric evolution. More research required into sub-continental isotopes to contrain elemental compositions further.
+  
 Allegre 1983
   - Volcanic rocks contain a higher proportion of Xe-129. Hence, elements must have degassed relatively soon in the history of the Earth over the geological time scale (30Ma). This agrees with Hf-W isotope ratios. Tungsten is a siderophilic element and is present in high amounts in the mantle. Thus, knowing the half-life of Hf, it can be deduced that not all of this can have decayed before core differentiation occurred.
   
@@ -34,15 +35,16 @@ Wilson et al 2010
   
   Orosei et al 2018
   
-  Villanueva 2010
-    How deep was the water layer?
-    How was it mapped?
+  Villanueva 2015
+    Estimated ~140m depth
+    IR mapping
     Greater sampling (such as from Atmospheric and Volatile Evolution Mission) would constrain spatial and time-based uncertainties.
     
 Watson and Harrison 2005
-  - Where?
-  - Significance of Hadean
-  - Interesting related research?
+  Jack Hills
+  Geological processes occurred at a greater rate as a consequence of rapid mantle convection.
+  Zircon thermometer for melting conditions
+  Interesting to contrast to NASA research reported in January 2019 which suggested the presence of a Hadean Earth rock on the moon.
 
 Seager 2013
   - No universal habitable zone
