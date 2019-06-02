@@ -61,7 +61,7 @@ Aeolian
   </tr>
   <tr>
     <td class="tg-0pky">Bivalve</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Euryhaline</td>
     <td class="tg-0pky">Initially marine, shallow burrowers. Freshwater migration, epifaunal activity and burrowing emerged later. Response to 'Cambrian substrate revolution' and end-Permian mass extinction.</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -72,7 +72,7 @@ Aeolian
   </tr>
   <tr>
     <td class="tg-0pky">Brachiopods</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Stenohaline</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -105,7 +105,7 @@ Aeolian
   </tr>
    <tr>
     <td class="tg-0pky">Echinoid</td>
-    <td class="tg-0pky">Regular - epifaunal; irregular: infaunal. Shallow marine. Divergence occurred during Jurassic</td>
+    <td class="tg-0pky">Regular - epifaunal; irregular: infaunal. Shallow marine. Divergence occurred during Jurassic. Stenohaline</td>
     <td class="tg-0pky">Deposit feeder</td>
     <td class="tg-0pky">Rigid, robust exoskeleton of mesodermal calcite plates</td>
     <td class="tg-0pky"></td>
@@ -116,7 +116,7 @@ Aeolian
   </tr>
   <tr>
     <td class="tg-0pky">Crinoids</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Stenohaline</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
