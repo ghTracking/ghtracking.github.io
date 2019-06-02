@@ -477,6 +477,18 @@ At a
 ## 29. Palaeoecology - making a living in deep time<a name="29"></a>
 [Back to top](#top)
 
+* Black smokers
+  * 2-3km depth
+  * Sulphide oxidising bacteria
+  * High redox potential between H<sub>2</sub>S in hydrothermal fluids and O<sub>2</sub> in seawater
+  * This metabolic pathway is post GOE
+* White Smokers (e.g. Lost City)
+  * Moderate temperatures
+  * Exceptionally high pH
+  * Carbonate and sulfate edifices
+  * Source of molecular hydrogen (produced from alteration of olivine to serpentine)
+    * Used by methanogenic archaea - chemoautotrophs
+
 ## 30. Fossils as palaeoenvironmental indicators<a name="30"></a>
 [Back to top](#top)
 
