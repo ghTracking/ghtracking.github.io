@@ -36,8 +36,8 @@ Aside : Rhynie Chert
   * Preserves plants in situ and often in growth position
   * Provides evidence for phylogenic adaptations with regard to osmotic and chemical pressures, as well as the extent to which some of these sporophytic plants were endemic.
 
-* Organic matter in photosynthetic organisms contains less <sub>13</sub> in comparison with surrounding sediments, causing fractionation and known as the kinetic isotope effect.
-* Similarly, biological sulfate reduction shows a preference for <sub>32</sub>. Consequently, the sedimentary record may show a greater abundance of this isotope. This is due to the fact that the sulfate molecules are converted to hydrogen sulfide, which then reacts to form pyrite and enters the sedimentary record.
+* Organic matter in photosynthetic organisms contains less C<sup>13</sup> in comparison with surrounding sediments, causing fractionation and known as the kinetic isotope effect.
+* Similarly, biological sulfate reduction shows a preference for S<sup>32</sup>. Consequently, the sedimentary record may show a greater abundance of this isotope. This is due to the fact that the sulfate molecules are converted to hydrogen sulfide, which then reacts to form pyrite and enters the sedimentary record.
 
 
 ## Chapter 4 The Earliest Glimmers of Life
