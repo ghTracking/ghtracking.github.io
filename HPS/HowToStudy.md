@@ -43,7 +43,7 @@ Holmes (1967), Journal of Psychsomatic Research<br>
 
 
 
-<i>Writing an essay - Hennessy </i>
+<i>Writing an essay - Hennessy </i><br>
 Consider the assumptions made in a statement within an essay title p. 35
 
 
