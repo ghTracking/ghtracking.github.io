@@ -5,8 +5,8 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="ReadingList">Basic Paleontology</a>
-      <a href="WhatIsScience">Life on a Young Planet</a>
+      <a href="ReadingList">Reading List</a>
+      <a href="WhatIsScience">WhatIsScience</a>
     </div>
   </div> 
 </div>
