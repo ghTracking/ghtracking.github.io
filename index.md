@@ -1,6 +1,6 @@
 <div class="navbar">
-  <a href="Practicals">Practicals</a>
-  <div class="dropdown">
+  <a href="Tom_Organic">Tom's Organic!</a>
+  <!-- <div class="dropdown">
     <button class="dropbtn">HPS 
       <i class="fa fa-caret-down"></i>
     </button>
@@ -10,4 +10,4 @@
     </div>
   </div> 
 </div>
-
+-->
