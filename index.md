@@ -38,8 +38,3 @@
     </div>
   </div> 
 </div>
-
-
-# Testing markdown
-
-## Testing markdown again
