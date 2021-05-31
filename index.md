@@ -1,6 +1,7 @@
 <div class="navbar">
+  <!--- <a href="Tom_Organic">Tom's Organic!</a>
   <a href="Tom_Organic">Tom's Organic!</a>
-  <a href="Tom_Organic">Tom's Organic!</a>
+  --->
   <div class="dropdown">
     <button class="dropbtn">A Courses 
       <i class="fa fa-caret-down"></i>
