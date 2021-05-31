@@ -7,7 +7,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="A_Courses/A1.md">A1</a>
+      <a href="A_Courses/A1.html">A1</a>
       <a href="A_Courses/A2.md">A2</a>
       <a href="A_Courses/A3.md">A3</a>
       <a href="A_Courses/A4.md">A4</a>
