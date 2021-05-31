@@ -1,3 +1,6 @@
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 <div class="navbar">
   <!--- <a href="Tom_Organic">Tom's Organic!</a>
   <a href="Tom_Organic">Tom's Organic!</a>
@@ -38,3 +41,5 @@
     </div>
   </div> 
 </div>
+
+$$ \LaTeX test math x + y = z $$
