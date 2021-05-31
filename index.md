@@ -7,8 +7,8 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="A_Courses/A1">A1 MD</a>
-      <a href="A_Courses/A2">A2 MD</a>
+      <a href="A_Courses/A1">A1</a>
+      <a href="A_Courses/A2">A2</a>
       <a href="A_Courses/A3">A3</a>
       <a href="A_Courses/A4">A4</a>
     </div>
