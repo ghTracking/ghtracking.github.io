@@ -33,8 +33,8 @@
     <div class="dropdown-content">
       <a href="C_Courses/C1">C1</a>
       <a href="C_Courses/C3">C3</a>
-      <a href="C_Courses/C6">C6 mathjax test</a>
-      <a href="C_Courses/C8">C8 ipynb new</a>
+      <a href="C_Courses/C6">C6</a>
+      <a href="C_Courses/C8">C8</a>
     </div>
   </div> 
 </div>
