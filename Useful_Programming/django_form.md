@@ -28,5 +28,10 @@ to a form submission.
 <h3>What is a context in Django?</h3>
 A context contains a dictionary which specifies the 
 variables to be loaded into a template.
+</div>
+
+<div class="tip">
+<h3>What is render in Django?</h3>
+Render is a Django shortcut.
 
 </div>
