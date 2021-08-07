@@ -27,6 +27,19 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  ghtracking
 
+collections:
+  A_Courses:
+    output: true
+    permalink: /A_Courses/:path/
+  B_Courses:
+    output: true
+    permalink: /B_Courses/:path/
+  C_Courses:
+    output: true
+    permalink: /C_Courses/:path/
+  Mathematical_Methods:
+    output: true
+    permalink: /Mathematical_Methods/:path/
 
 #header_pages:
 #  - A_Courses/A1.md
