@@ -20,11 +20,10 @@
 
 title: ghtracking
 #email: your-email@example.com
+shortdesc: Based on the Jekyll minima theme. 
+email: (Email placeholder)
 description: >- # this means to ignore newlines until "baseurl:"
   Useful Notes
-author:
-  name: Based on the Jekyll minima theme. 
-  email: (Email placeholder)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
