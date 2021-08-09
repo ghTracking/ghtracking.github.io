@@ -42,6 +42,9 @@ collections:
   Mathematical_Methods:
     output: true
     permalink: /Mathematical_Methods/:path/
+  gov_science_updates:
+    output: true
+    permalink: /gov_science_updates/:path/
 
 #header_pages:
 #  - A_Courses/A1.md
