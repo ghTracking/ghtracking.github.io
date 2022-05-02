@@ -45,9 +45,9 @@ collections:
   gov_science_updates:
     output: true
     permalink: /gov_science_updates/:path/
-  General_Inorganic
-    output: true
-    permalink: /general_inorganic/:path/
+  #General_Inorganic
+  #  output: true
+  #  permalink: /general_inorganic/:path/
   practical_skills:
     output: true
     permalink: /practical_skills/:path/
