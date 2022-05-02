@@ -48,6 +48,9 @@ collections:
   General_Inorganic
     output: true
     permalink: /general_inorganic/:path/
+  practical_skills:
+    output: true
+    permalink: /practical_skills/:path/
 #header_pages:
 #  - A_Courses/A1.md
 
