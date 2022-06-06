@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Chemistry of the Elements"
+categories: Part_IA
+---
+
 Quick summary:
 
 # Book 1- periodicity and the elements
