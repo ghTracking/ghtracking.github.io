@@ -25,7 +25,11 @@ _ http://www.reachdevices.com/SetUpColumn.html_
 
 ### Dry-loading
 If the compound has poor solubility but TLC shows that it is still suitable in the solvent system, dry-loading should be used.
-- Add 2-5 times silica compared to the sample to the solution of sample.
+- Add 2-5 times silica compared to the sample to the solution of sample. The silica used should be 5-10 % of total silica (reachdevices.com)
 - Swirl to ensure silica is suspended, then rotary evaporate to leave the solid. 
 - Add silica containing sample to top of column.
 - Once this is done, add sand and run as normal. 
+
+## Flushing through
+
+- reachdevices.com recommends 2 to 4 psi gas pressure for 20-45 $\mu$m silica and 1 to 2 psi for 40-75 $\mu$m silica
