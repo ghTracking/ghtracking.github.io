@@ -54,6 +54,9 @@ collections:
   Part_IA:
     output: true
     permalink: /Part_IA/:path/
+  Statistics:
+    output: true
+    permalink: /Statistics/:path/
 #header_pages:
 #  - A_Courses/A1.md
 
