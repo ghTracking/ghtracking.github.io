@@ -19,7 +19,7 @@ _From University Laboratory Manual_
 - Fill remainder of column with solvent system.
 - Use bellows to push solvent through 
 
-_ http://www.reachdevices.com/SetUpColumn.html_
+_http://www.reachdevices.com/SetUpColumn.html_
 
 - Avoid using magnetic stirrer bar for silica stirring
 
@@ -32,4 +32,4 @@ If the compound has poor solubility but TLC shows that it is still suitable in t
 
 ## Flushing through
 
-- reachdevices.com recommends 2 to 4 psi gas pressure for 20-45 $\mu$m silica and 1 to 2 psi for 40-75 $\mu$m silica
+- reachdevices.com recommends 2 to 4 psi gas pressure for 20-45 $\mu$ m silica and 1 to 2 psi for 40-75 $\mu$ m silica
