@@ -19,7 +19,7 @@
     {%- if page_paths -%}
   <div class="trigger">
     {% for collection in site.collections %}
-    {% if collection.label contains 'Mathematical_Methods' or collection.label contains 'practical_skills or collection.label contains 'posts' %}
+    {% if collection.label contains 'Mathematical_Methods' or collection.label contains 'practical_skills' or collection.label contains 'posts' %}
     {% else %}
     {% for page in site.[collection.label]] %}
     {% assign url_parts = page.url | split: '/' %}
