@@ -31,4 +31,4 @@ Being unsure, I also added
 ```
 into the _config.yml
 
-Once the `{%if collection.label contains '###_### %}` is modified to include another `or` for a new folder
+Once the `{% raw %}{%if collection.label contains '###_### %}{% endraw %}` is modified to include another `or` for a new folder
