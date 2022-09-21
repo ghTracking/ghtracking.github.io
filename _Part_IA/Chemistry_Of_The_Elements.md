@@ -4,13 +4,15 @@ title:  "Chemistry of the Elements"
 categories: Part_IA
 ---
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 Quick summary:
 
-# Book 1- periodicity and the elements
+# Book 1 - periodicity and the elements
 
 
 Emphasis on fact that one-electron solution to 
-Schrödinger equation ($$ E_n = \frac{-Z^2 R_H}{n^2})
+Schrödinger equation ($$ E_n = \frac{-Z^2 R_H}{n^2}$$)
 can be modified to use '$$Z_{eff}$$', where
 this is the nuclear charge minus a shielding
 constant.
