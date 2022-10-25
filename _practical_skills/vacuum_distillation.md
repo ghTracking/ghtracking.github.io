@@ -21,13 +21,13 @@ categories: practicals
 
 ## Strength of vacuum pumps
 
-### Low strength (20-50 mmHg [=27-67 bar])
+### Low strength (20-50 mmHg [=27-67 mbar])
 
 - Sufficient for rotary evaporation of most solvents
 - Typically `house vacuum'
 
 
-### Medium strength (10-12 mmHg [=13-16 bar])
+### Medium strength (10-12 mmHg [=13-16 mbar])
 
 - Water aspirator
 - Can suck back if water pressure suddenly drops. Do not turn off the tap during use!
