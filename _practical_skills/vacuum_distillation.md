@@ -9,7 +9,7 @@ categories: practicals
 <div class="tip">
 - Use a nomograph to calculate boiling points at different pressures (such as by using the Clausius-Clapeyron equation)
 
-</div>
+</div> 
 
 ## Fractional distillation
 
