@@ -1,5 +1,7 @@
 ---
 layout: default
-title:  ""
+title:  "Test"
 categories: maths
 ---
+
+Test
