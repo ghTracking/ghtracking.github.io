@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /C_courses/
+permalink: /C_Courses/
 ---
 {% for page in site.C_Courses %}
 {% assign url_parts = page.url | split: '/' %}
