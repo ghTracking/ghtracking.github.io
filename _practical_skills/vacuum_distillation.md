@@ -44,7 +44,7 @@ categories: practicals
 - Oil should be changed once a month for pump used every day?
 
 - _Mercury or oil vapour pump_
-    - Gives 10<sup>-5<sup>[=1.3×10<sup>-4</sup> mbar]
+    - Gives 10<sup>-5<sup> [=1.3×10<sup>-4</sup> mbar]
 
 
 ## Perkin triangle
