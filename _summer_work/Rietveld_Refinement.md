@@ -1,5 +1,6 @@
 ---
-layout: page 
+layout: default
+title: Rietveld Refinement
 ---
 
 ## What is Rietveld refinement?
