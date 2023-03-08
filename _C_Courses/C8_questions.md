@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  C8 Questions
 categories: physical
 ---
