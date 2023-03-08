@@ -50,7 +50,7 @@ collections:
     permalink: /summer_work/:path/
   General_Inorganic:
     output: true
-    permalink: /general_inorganic/:path/
+    permalink: /General_Inorganic/:path/
   practical_skills:
     output: true
     permalink: /practical_skills/:path/
