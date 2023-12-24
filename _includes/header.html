@@ -27,6 +27,7 @@
     or collection.label contains 'C_Courses' \
     or collection.label contains 'summer_work' \    
     or collection.label contains 'General_Inorganic' \
+    or collection.label contains 'X-ray_spectroscopy' \
     or collection.label contains 'Statistics' %}
     {% else %}
     {% for page in site.[collection.label]] %}
@@ -44,6 +45,7 @@
     <a class="page-link" href="{{ "/C_Courses" | relative_url }}"> C Courses </a>
     <a class="page-link" href="{{ "/summer_work" | relative_url }}"> Summer Work </a>
     <a class="page-link" href="{{ "/General_Inorganic" | relative_url }}"> General Inorganic </a>
+    <a class="page-link" href="{{ "/X-ray_spectroscopy" | relative_url }}"> X-ray Spectroscopy </a>
     {% endif %}
   </div>
   </nav>
