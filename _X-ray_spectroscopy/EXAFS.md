@@ -24,6 +24,8 @@ categories: physical
 
 # Athena
 
+# Larch
+
 ## What are the basic steps in EXAFS analysis?
 - Convert intensity to $\mu$, the absorption coefficient. 
 - Fit background to the pre-edge and post-edge, before subtracting these functions and normalising to the absorption at the edge.

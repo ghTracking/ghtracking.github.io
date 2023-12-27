@@ -48,6 +48,9 @@ collections:
   summer_work:
     output: true
     permalink: /summer_work/:path/
+  X-ray_spectroscopy:
+    output: true
+    permalink: /X-ray_spectroscopy/:path/
   General_Inorganic:
     output: true
     permalink: /General_Inorganic/:path/
