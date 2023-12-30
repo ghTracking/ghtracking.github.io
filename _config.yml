@@ -69,6 +69,9 @@ collections:
   Metal_Oxides:
     output: true
     permalink: /Metal_Oxides/:path/
+  Electrochemistry:
+    output: true
+    permalink: /Electrochemistry/:path/
 #header_pages:
 #  - _Courses/A1.md
 
