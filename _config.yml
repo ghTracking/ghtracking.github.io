@@ -51,6 +51,9 @@ collections:
   X-ray_spectroscopy:
     output: true
     permalink: /X-ray_spectroscopy/:path/
+  Outreach:
+    output: true
+    permalink: /Outreach/:path/
   General_Inorganic:
     output: true
     permalink: /General_Inorganic/:path/
@@ -63,6 +66,9 @@ collections:
   Statistics:
     output: true
     permalink: /Statistics/:path/
+  Metal_Oxides:
+    output: true
+    permalink: /Metal_Oxides/:path/
 #header_pages:
 #  - _Courses/A1.md
 
