@@ -43,7 +43,7 @@ The formula is used to provide parameters for use in Gaussian and Lorentzian lin
 ## What affects intensity?
 _http://prism.mit.edu/xray/oldsite/6a%20Fundamentals%20of%20Rietveld%20Refinement%20XRD%20Simulation.pdf, p.41_
 
-$$ I = SM_{K}L_{K}|F_{K}|^2P_{K}E_{K}$$
+$ I = SM_{K}L_{K}|F_{K}|^2P_{K}E_{K}$
 
 - S: scale factor
 - M: multiplicity (i.e. (001) and (100) being the same within cubic)
