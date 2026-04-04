@@ -4,10 +4,6 @@ title:  "Welcome to Jekyll!"
 date:   2021-05-31 19:28:29 +0100
 categories: jekyll update
 ---
-<!---
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
--->
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Testing $$x+y+z$$ inline math

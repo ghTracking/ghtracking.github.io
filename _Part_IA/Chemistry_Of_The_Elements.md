@@ -3,8 +3,6 @@ layout: post
 title:  "Chemistry of the Elements"
 categories: Part_IA
 ---
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 Quick summary:
 
 # Book 1 - periodicity and the elements
